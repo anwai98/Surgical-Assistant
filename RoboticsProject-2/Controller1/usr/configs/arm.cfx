@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arm>
+  <String name="date" value="18 MAR 2015  11:55" />
+  <String name="orderNumber" value="F11_5GY1A1_A_01" />
+  <String name="arm" value="ts60-S1" />
+  <String name="tuning" value="" />
+  <String name="mount" value="wall" />
+  <FloatArray name="minArmJointPos" >
+    <Float index="0" value="-79.61" />
+    <Float index="1" value="-99999" />
+    <Float index="2" value="-99999" />
+    <Float index="3" value="-99999" />
+  </FloatArray>
+  <FloatArray name="maxArmJointPos" >
+    <Float index="0" value="81.39" />
+    <Float index="1" value="99999" />
+    <Float index="2" value="99999" />
+    <Float index="3" value="99999" />
+  </FloatArray>
+  <FloatArray name="zeroOffset" >
+    <Float index="0" value="1098186.580811" />
+    <Float index="1" value="684020.527954" />
+    <Float index="2" value="1167911.05957" />
+    <Float index="3" value="924965.727539" />
+  </FloatArray>
+  <FloatArray name="phaseOffset" >
+    <Float index="0" value="144.453735" />
+    <Float index="1" value="225.791016" />
+    <Float index="2" value="198.078003" />
+    <Float index="3" value="234.179077" />
+  </FloatArray>
+  <StringArray name="motorType" >
+    <String index="0" value="" />
+    <String index="1" value="" />
+    <String index="2" value="" />
+    <String index="3" value="" />
+  </StringArray>
+  <VectCartArray name="dimensionOffset" >
+    <VectCart index="0" x="0" y="0" z="0" />
+    <VectCart index="1" x="0" y="0" z="0" />
+    <VectCart index="2" x="0" y="0" z="0" />
+    <VectCart index="3" x="0" y="0" z="0" />
+  </VectCartArray>
+  <VectCart name="flangeOrientationOffset" x="0" y="0" z="0" />
+  <Bool name="userCabling" value="true" />
+  <String name="diameterAxis3" value="D25" />
+  <String name="lengthAxis3" value="L200" />
+</arm>

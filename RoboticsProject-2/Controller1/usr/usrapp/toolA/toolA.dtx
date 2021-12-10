@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dataList xmlns="DataNameSpace" >
+  <aioSection />
+  <boolSection />
+  <configRsSection />
+  <configSection />
+  <configVrbSection />
+  <dioSection />
+  <frameSection>
+    <frame name="a" public="false" privilege="0" >
+      <fFather alias="" name="world" fatherIndex="0" />
+      <valueFrame index="0" >
+        <tfValue x="212.223847" y="350.207192" z="-18.451185" rx="0.000024" ry="0.00006" rz="-37.666976" />
+      </valueFrame>
+    </frame>
+    <frame name="b" public="false" privilege="0" >
+      <fFather alias="" name="world" fatherIndex="0" />
+      <valueFrame index="0" >
+        <tfValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+      </valueFrame>
+      <valueFrame index="1" >
+        <tfValue x="519.458075" y="124.778774" z="-18.451286" rx="0.000006" ry="-0.000011" rz="178.193757" />
+      </valueFrame>
+    </frame>
+    <frame name="c" public="false" privilege="0" >
+      <fFather alias="" name="world" fatherIndex="0" />
+      <valueFrame index="0" >
+        <tfValue x="552.410008" y="-215.413502" z="-18.45106" rx="0.000054" ry="0.000169" rz="126.310156" />
+      </valueFrame>
+    </frame>
+    <frame name="world" public="false" privilege="0" >
+      <fFather alias="" name="" fatherIndex="0" />
+      <valueFrame index="0" >
+        <tfValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+      </valueFrame>
+    </frame>
+  </frameSection>
+  <jointRsSection>
+    <jointRs name="rest" public="false" privilege="0" >
+      <valueJointRs index="0" >
+        <jointRsValue j1="-1.372" j2="0.209932" j3="149.65" j4="0.000183" />
+      </valueJointRs>
+    </jointRs>
+    <jointRs name="rest1" public="true" privilege="0" >
+      <valueJointRs index="0" >
+        <jointRsValue j1="-1.372" j2="25.499932" j3="149.65" j4="0.000183" />
+      </valueJointRs>
+    </jointRs>
+    <jointRs name="rest2" public="true" privilege="0" >
+      <valueJointRs index="0" >
+        <jointRsValue j1="-1.372" j2="-20.220068" j3="118.499771" j4="0.000183" />
+      </valueJointRs>
+    </jointRs>
+  </jointRsSection>
+  <jointSection />
+  <jointVrbSection />
+  <mdescSection>
+    <mdesc name="mNomSlow" public="true" privilege="0" >
+      <valueMdesc index="0" >
+        <mdescValue accel="100" vel="5" decel="100" tmax="99999" rmax="99999" blend="off" leave="50" reach="50" />
+      </valueMdesc>
+    </mdesc>
+    <mdesc name="mNomSpeed" public="true" privilege="0" >
+      <valueMdesc index="0" >
+        <mdescValue accel="100" vel="15" decel="100" tmax="99999" rmax="99999" blend="joint" leave="50" reach="50" />
+      </valueMdesc>
+    </mdesc>
+  </mdescSection>
+  <numSection>
+    <num name="i" public="false" privilege="0" >
+      <valueNum index="0" value="4" />
+    </num>
+    <num name="indA" public="false" privilege="0" >
+      <valueNum index="0" value="0" />
+    </num>
+    <num name="indB" public="false" privilege="0" >
+      <valueNum index="0" value="0" />
+    </num>
+    <num name="indC" public="false" privilege="0" >
+      <valueNum index="0" value="0" />
+    </num>
+    <num name="indD" public="false" privilege="0" >
+      <valueNum index="0" value="0" />
+    </num>
+    <num name="nvar" public="false" privilege="0" >
+      <valueNum index="0" value="100" />
+    </num>
+  </numSection>
+  <pointRsSection>
+    <pointRs name="conA" public="false" privilege="0" >
+      <pRsFather alias="" name="a" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="82.353121" y="86.298712" z="-22.930924" rx="0.000018" ry="179.999938" rz="11.01461" />
+        <cpRsValue shoulder="righty" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="conB" public="false" privilege="0" >
+      <pRsFather alias="" name="a" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="134.885145" y="57.586409" z="-22.533898" rx="0.000018" ry="179.999938" rz="11.014988" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="conC" public="false" privilege="0" >
+      <pRsFather alias="" name="a" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="182.082044" y="79.638765" z="-20.630303" rx="0.000018" ry="179.999938" rz="4.263042" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="conD" public="false" privilege="0" >
+      <pRsFather alias="" name="a" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="216.300064" y="28.080457" z="-29.898572" rx="0.000018" ry="179.999938" rz="-70.516528" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="hand" public="false" privilege="0" >
+      <pRsFather alias="" name="b" fatherIndex="1" />
+      <valuePointRs index="0" >
+        <tpRsValue x="73.806217" y="111.90183" z="-30.769717" rx="-179.999993" ry="0.000011" rz="-83.484909" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="iniA" public="false" privilege="0" >
+      <pRsFather alias="" name="c" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="54.006262" y="48.067144" z="-15.288692" rx="179.999896" ry="-0.000144" rz="-80.244089" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="iniB" public="false" privilege="0" >
+      <pRsFather alias="" name="c" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="40.790533" y="105.624185" z="-14.455986" rx="179.999896" ry="-0.000144" rz="-80.445043" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="iniC" public="false" privilege="0" >
+      <pRsFather alias="" name="c" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="47.932795" y="156.134249" z="-13.534054" rx="179.999896" ry="-0.000144" rz="-85.579355" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="iniD" public="false" privilege="0" >
+      <pRsFather alias="" name="c" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="23.054513" y="221.094079" z="-17.36436" rx="-0.000104" ry="-179.999856" rz="20.782975" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="sanini1" public="false" privilege="0" >
+      <pRsFather alias="" name="c" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="49.934368" y="17.790609" z="23.806281" rx="-0.000104" ry="-179.999856" rz="44.63211" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+    <pointRs name="sanini2" public="false" privilege="0" >
+      <pRsFather alias="" name="c" fatherIndex="0" />
+      <valuePointRs index="0" >
+        <tpRsValue x="43.012294" y="260.340065" z="23.806281" rx="-0.000104" ry="-179.999856" rz="44.616612" />
+        <cpRsValue shoulder="ssame" />
+      </valuePointRs>
+    </pointRs>
+  </pointRsSection>
+  <pointSection />
+  <pointVrbSection />
+  <sioSection />
+  <stringSection />
+  <toolSection>
+    <tool name="flange" public="false" privilege="0" >
+      <tFather alias="" name="" fatherIndex="0" />
+      <valueTool index="0" >
+        <ttValue x="0" y="0" z="0" rx="0" ry="0" rz="0" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+    <tool name="suction" public="false" privilege="0" >
+      <tFather alias="" name="flange" fatherIndex="0" />
+      <valueTool index="0" >
+        <ttValue x="0" y="0" z="50" rx="0" ry="0" rz="0" />
+        <io alias="io" name="valve1" ioIndex="0" open="0" close="0" />
+      </valueTool>
+    </tool>
+  </toolSection>
+  <trsfSection />
+</dataList>

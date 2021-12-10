@@ -1,0 +1,1737 @@
+﻿[11/12/21 16:15:20]: -----------------------------------------------
+[11/12/21 16:15:20]: Logger started
+[11/12/21 16:15:24]: Unknown event:Communication established
+[11/12/21 16:15:24]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:15:24]: Cycle time set to 0.004s
+[11/12/21 16:15:24]: Simulation cycle time set to 0.1s
+[11/12/21 16:15:24]: Controller IP address could not be updated
+[11/12/21 16:15:24]: STARC : No STARC board detected on PCI.
+[11/12/21 16:15:24]: Mcp = TSimulated
+[11/12/21 16:15:24]: Power shutdown delay set to 0 s
+[11/12/21 16:15:24]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:15:24]: Power hour count = 0:00:00
+[11/12/21 16:15:24]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:15:24]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:15:24]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:15:24]: Option testMode: demo 
+[11/12/21 16:15:24]: Configuration Version: D24266415A 
+[11/12/21 16:15:24]: Machine Number: ? 
+[11/12/21 16:15:24]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:15:24]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:15:24]: EP: s6.8 Feb  3 2010
+[11/12/21 16:15:24]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:15:24]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:15:24]: New profile : default
+[11/12/21 16:15:24]: COM-PC: create session 127.0.0.1 on port 50134 id=#55249712
+[11/12/21 16:15:24]: Working mode:manual.
+[11/12/21 16:15:25]: End of arm power shutdown phase.
+[11/12/21 16:15:45]: Settling arm power...
+[11/12/21 16:15:46]: Arm power settled.
+[11/12/21 16:15:46]: Unknown event:motion generator activated
+[11/12/21 16:15:48]: toolA application started
+[11/12/21 16:15:48]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:16:03]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[11/12/21 16:16:03]: Cannot complete move: destination is out of reach.(out of software joint limits) (1)
+[11/12/21 16:16:03]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[11/12/21 16:18:48]: Manual motion mode:Point
+[11/12/21 16:18:48]: Unknown event:motion generator desactivated
+[11/12/21 16:18:48]: Unknown event:motion generator activated
+[11/12/21 16:22:46]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[11/12/21 16:23:41]: -----------------------------------------------
+[11/12/21 16:23:41]: Logger started
+[11/12/21 16:23:45]: Unknown event:Communication established
+[11/12/21 16:23:45]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:23:45]: Cycle time set to 0.004s
+[11/12/21 16:23:45]: Simulation cycle time set to 0.1s
+[11/12/21 16:23:45]: Controller IP address could not be updated
+[11/12/21 16:23:45]: STARC : No STARC board detected on PCI.
+[11/12/21 16:23:45]: Mcp = TSimulated
+[11/12/21 16:23:45]: Power shutdown delay set to 0 s
+[11/12/21 16:23:45]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:23:45]: Power hour count = 0:00:00
+[11/12/21 16:23:45]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:23:45]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:23:45]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:23:45]: Option testMode: demo 
+[11/12/21 16:23:45]: Configuration Version: D24266415A 
+[11/12/21 16:23:45]: Machine Number: ? 
+[11/12/21 16:23:45]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:23:45]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:23:45]: EP: s6.8 Feb  3 2010
+[11/12/21 16:23:45]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:23:45]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:23:45]: New profile : default
+[11/12/21 16:23:45]: COM-PC: create session 127.0.0.1 on port 50199 id=#55119680
+[11/12/21 16:23:46]: Working mode:manual.
+[11/12/21 16:23:46]: End of arm power shutdown phase.
+[11/12/21 16:23:49]: Jog mode cannot be selected: first enable arm power.
+[11/12/21 16:23:50]: Manual motion mode:Point
+[11/12/21 16:23:57]: Settling arm power...
+[11/12/21 16:23:57]: Arm power settled.
+[11/12/21 16:23:58]: Unknown event:motion generator activated
+[11/12/21 16:23:58]: Manual motion mode:Disabled
+[11/12/21 16:23:58]: Unknown event:motion generator desactivated
+[11/12/21 16:23:58]: Unknown event:motion generator activated
+[11/12/21 16:24:07]: Manual motion mode:Point
+[11/12/21 16:24:07]: Unknown event:motion generator desactivated
+[11/12/21 16:24:07]: Unknown event:motion generator activated
+[11/12/21 16:25:25]: Manual motion mode:Disabled
+[11/12/21 16:25:25]: Unknown event:motion generator desactivated
+[11/12/21 16:25:25]: Unknown event:motion generator activated
+[11/12/21 16:25:48]: Manual motion mode:Point
+[11/12/21 16:25:48]: Unknown event:motion generator desactivated
+[11/12/21 16:25:48]: Unknown event:motion generator activated
+[11/12/21 16:26:12]: Manual motion mode:Disabled
+[11/12/21 16:26:12]: Unknown event:motion generator desactivated
+[11/12/21 16:26:12]: Unknown event:motion generator activated
+[11/12/21 16:28:48]: toolA application started
+[11/12/21 16:28:48]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:28:48]: Cannot move: destination is out of software axis limits
+[11/12/21 16:28:48]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[11/12/21 16:29:16]: -----------------------------------------------
+[11/12/21 16:29:16]: Logger started
+[11/12/21 16:29:20]: Unknown event:Communication established
+[11/12/21 16:29:20]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:29:20]: Cycle time set to 0.004s
+[11/12/21 16:29:20]: Simulation cycle time set to 0.1s
+[11/12/21 16:29:20]: Controller IP address could not be updated
+[11/12/21 16:29:20]: STARC : No STARC board detected on PCI.
+[11/12/21 16:29:20]: Mcp = TSimulated
+[11/12/21 16:29:20]: Power shutdown delay set to 0 s
+[11/12/21 16:29:20]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:29:20]: Power hour count = 0:00:00
+[11/12/21 16:29:20]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:29:20]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:29:20]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:29:20]: Option testMode: demo 
+[11/12/21 16:29:20]: Configuration Version: D24266415A 
+[11/12/21 16:29:20]: Machine Number: ? 
+[11/12/21 16:29:20]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:29:20]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:29:20]: EP: s6.8 Feb  3 2010
+[11/12/21 16:29:20]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:29:20]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:29:20]: New profile : default
+[11/12/21 16:29:21]: COM-PC: create session 127.0.0.1 on port 50273 id=#54726464
+[11/12/21 16:29:21]: Working mode:manual.
+[11/12/21 16:29:21]: End of arm power shutdown phase.
+[11/12/21 16:29:37]: toolA application started
+[11/12/21 16:29:37]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:29:39]: Settling arm power...
+[11/12/21 16:29:39]: Arm power settled.
+[11/12/21 16:29:40]: Unknown event:motion generator activated
+[11/12/21 16:29:40]: Cannot move: destination is out of software axis limits
+[11/12/21 16:29:40]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[11/12/21 16:30:46]: -----------------------------------------------
+[11/12/21 16:30:46]: Logger started
+[11/12/21 16:30:50]: Unknown event:Communication established
+[11/12/21 16:30:50]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:30:50]: Cycle time set to 0.004s
+[11/12/21 16:30:50]: Simulation cycle time set to 0.1s
+[11/12/21 16:30:50]: Controller IP address could not be updated
+[11/12/21 16:30:50]: STARC : No STARC board detected on PCI.
+[11/12/21 16:30:50]: Mcp = TSimulated
+[11/12/21 16:30:50]: Power shutdown delay set to 0 s
+[11/12/21 16:30:50]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:30:50]: Power hour count = 0:00:00
+[11/12/21 16:30:50]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:30:50]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:30:50]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:30:50]: Option testMode: demo 
+[11/12/21 16:30:50]: Configuration Version: D24266415A 
+[11/12/21 16:30:50]: Machine Number: ? 
+[11/12/21 16:30:50]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:30:50]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:30:50]: EP: s6.8 Feb  3 2010
+[11/12/21 16:30:50]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:30:50]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:30:50]: New profile : default
+[11/12/21 16:30:51]: COM-PC: create session 127.0.0.1 on port 50295 id=#54267712
+[11/12/21 16:30:51]: Working mode:manual.
+[11/12/21 16:30:51]: End of arm power shutdown phase.
+[11/12/21 16:30:58]: Settling arm power...
+[11/12/21 16:30:58]: Arm power settled.
+[11/12/21 16:30:59]: Unknown event:motion generator activated
+[11/12/21 16:31:27]: toolA application started
+[11/12/21 16:31:27]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:31:44]: toolA application stopped
+[11/12/21 16:35:09]: -----------------------------------------------
+[11/12/21 16:35:09]: Logger started
+[11/12/21 16:35:13]: Unknown event:Communication established
+[11/12/21 16:35:14]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:35:14]: Cycle time set to 0.004s
+[11/12/21 16:35:14]: Simulation cycle time set to 0.1s
+[11/12/21 16:35:14]: Controller IP address could not be updated
+[11/12/21 16:35:14]: STARC : No STARC board detected on PCI.
+[11/12/21 16:35:14]: Mcp = TSimulated
+[11/12/21 16:35:14]: Power shutdown delay set to 0 s
+[11/12/21 16:35:14]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:35:14]: Power hour count = 0:00:00
+[11/12/21 16:35:14]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:35:14]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:35:14]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:35:14]: Option testMode: demo 
+[11/12/21 16:35:14]: Configuration Version: D24266415A 
+[11/12/21 16:35:14]: Machine Number: ? 
+[11/12/21 16:35:14]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:35:14]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:35:14]: EP: s6.8 Feb  3 2010
+[11/12/21 16:35:14]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:35:14]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:35:14]: New profile : default
+[11/12/21 16:35:14]: COM-PC: create session 127.0.0.1 on port 50324 id=#54529856
+[11/12/21 16:35:14]: Working mode:manual.
+[11/12/21 16:35:14]: End of arm power shutdown phase.
+[11/12/21 16:35:29]: toolA application started
+[11/12/21 16:35:29]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:35:31]: Settling arm power...
+[11/12/21 16:35:31]: Arm power settled.
+[11/12/21 16:35:32]: Jog mode cannot be selected: first enable arm power.
+[11/12/21 16:35:32]: Unknown event:motion generator activated
+[11/12/21 16:42:12]: -----------------------------------------------
+[11/12/21 16:42:12]: Logger started
+[11/12/21 16:42:16]: Unknown event:Communication established
+[11/12/21 16:42:16]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:42:16]: Cycle time set to 0.004s
+[11/12/21 16:42:16]: Simulation cycle time set to 0.1s
+[11/12/21 16:42:16]: Controller IP address could not be updated
+[11/12/21 16:42:16]: STARC : No STARC board detected on PCI.
+[11/12/21 16:42:16]: Mcp = TSimulated
+[11/12/21 16:42:16]: Power shutdown delay set to 0 s
+[11/12/21 16:42:16]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:42:16]: Power hour count = 0:00:00
+[11/12/21 16:42:16]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:42:16]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:42:16]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:42:16]: Option testMode: demo 
+[11/12/21 16:42:16]: Configuration Version: D24266415A 
+[11/12/21 16:42:16]: Machine Number: ? 
+[11/12/21 16:42:16]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:42:16]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:42:16]: EP: s6.8 Feb  3 2010
+[11/12/21 16:42:16]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:42:16]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:42:16]: New profile : default
+[11/12/21 16:42:17]: COM-PC: create session 127.0.0.1 on port 50368 id=#54333248
+[11/12/21 16:42:17]: Working mode:manual.
+[11/12/21 16:42:17]: End of arm power shutdown phase.
+[11/12/21 16:42:32]: toolA application started
+[11/12/21 16:42:32]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:42:33]: Settling arm power...
+[11/12/21 16:42:34]: Arm power settled.
+[11/12/21 16:42:34]: Unknown event:motion generator activated
+[11/12/21 16:45:09]: -----------------------------------------------
+[11/12/21 16:45:09]: Logger started
+[11/12/21 16:45:13]: Unknown event:Communication established
+[11/12/21 16:45:13]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:45:13]: Cycle time set to 0.004s
+[11/12/21 16:45:13]: Simulation cycle time set to 0.1s
+[11/12/21 16:45:13]: Controller IP address could not be updated
+[11/12/21 16:45:13]: STARC : No STARC board detected on PCI.
+[11/12/21 16:45:13]: Mcp = TSimulated
+[11/12/21 16:45:13]: Power shutdown delay set to 0 s
+[11/12/21 16:45:13]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:45:13]: Power hour count = 0:00:00
+[11/12/21 16:45:13]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:45:13]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:45:13]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:45:13]: Option testMode: demo 
+[11/12/21 16:45:13]: Configuration Version: D24266415A 
+[11/12/21 16:45:13]: Machine Number: ? 
+[11/12/21 16:45:13]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:45:13]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:45:13]: EP: s6.8 Feb  3 2010
+[11/12/21 16:45:13]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:45:13]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:45:13]: New profile : default
+[11/12/21 16:45:13]: COM-PC: create session 127.0.0.1 on port 50398 id=#54071104
+[11/12/21 16:45:13]: Working mode:manual.
+[11/12/21 16:45:14]: End of arm power shutdown phase.
+[11/12/21 16:45:25]: Settling arm power...
+[11/12/21 16:45:25]: Arm power settled.
+[11/12/21 16:45:26]: Unknown event:motion generator activated
+[11/12/21 16:45:27]: toolA application started
+[11/12/21 16:45:27]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:45:33]: COM-PC: destroy session 127.0.0.1 on port 50398 id=#54071104
+[11/12/21 16:46:08]: toolA application stopped
+[11/12/21 16:46:15]: toolA application started
+[11/12/21 16:46:15]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:47:23]: -----------------------------------------------
+[11/12/21 16:47:23]: Logger started
+[11/12/21 16:47:27]: Unknown event:Communication established
+[11/12/21 16:47:27]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:47:27]: Cycle time set to 0.004s
+[11/12/21 16:47:27]: Simulation cycle time set to 0.1s
+[11/12/21 16:47:27]: Controller IP address could not be updated
+[11/12/21 16:47:27]: STARC : No STARC board detected on PCI.
+[11/12/21 16:47:27]: Mcp = TSimulated
+[11/12/21 16:47:27]: Power shutdown delay set to 0 s
+[11/12/21 16:47:27]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:47:27]: Power hour count = 0:00:00
+[11/12/21 16:47:27]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:47:27]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:47:27]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:47:27]: Option testMode: demo 
+[11/12/21 16:47:27]: Configuration Version: D24266415A 
+[11/12/21 16:47:27]: Machine Number: ? 
+[11/12/21 16:47:27]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:47:27]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:47:27]: EP: s6.8 Feb  3 2010
+[11/12/21 16:47:27]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:47:27]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:47:27]: New profile : default
+[11/12/21 16:47:27]: Working mode:manual.
+[11/12/21 16:47:28]: End of arm power shutdown phase.
+[11/12/21 16:47:37]: toolA application started
+[11/12/21 16:47:37]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:47:38]: Jog mode cannot be selected: first enable arm power.
+[11/12/21 16:47:41]: Settling arm power...
+[11/12/21 16:47:41]: Arm power settled.
+[11/12/21 16:47:41]: Jog mode cannot be selected: first enable arm power.
+[11/12/21 16:47:42]: Unknown event:motion generator activated
+[11/12/21 16:48:36]: -----------------------------------------------
+[11/12/21 16:48:36]: Logger started
+[11/12/21 16:48:40]: Unknown event:Communication established
+[11/12/21 16:48:40]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:48:40]: Cycle time set to 0.004s
+[11/12/21 16:48:40]: Simulation cycle time set to 0.1s
+[11/12/21 16:48:40]: Controller IP address could not be updated
+[11/12/21 16:48:40]: STARC : No STARC board detected on PCI.
+[11/12/21 16:48:40]: Mcp = TSimulated
+[11/12/21 16:48:40]: Power shutdown delay set to 0 s
+[11/12/21 16:48:40]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:48:40]: Power hour count = 0:00:00
+[11/12/21 16:48:40]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:48:40]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:48:40]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:48:40]: Option testMode: demo 
+[11/12/21 16:48:40]: Configuration Version: D24266415A 
+[11/12/21 16:48:40]: Machine Number: ? 
+[11/12/21 16:48:40]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:48:40]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:48:40]: EP: s6.8 Feb  3 2010
+[11/12/21 16:48:40]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:48:40]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:48:40]: New profile : default
+[11/12/21 16:48:41]: Working mode:manual.
+[11/12/21 16:48:41]: End of arm power shutdown phase.
+[11/12/21 16:48:42]: COM-PC: create session 127.0.0.1 on port 50427 id=#54726464
+[11/12/21 16:48:56]: toolA application started
+[11/12/21 16:48:56]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/12/21 16:48:57]: Settling arm power...
+[11/12/21 16:48:57]: Jog mode cannot be selected: first enable arm power.
+[11/12/21 16:48:57]: Arm power settled.
+[11/12/21 16:48:58]: Unknown event:motion generator activated
+[11/12/21 16:49:46]: -----------------------------------------------
+[11/12/21 16:49:46]: Logger started
+[11/12/21 16:49:50]: Unknown event:Communication established
+[11/12/21 16:49:51]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/12/21 16:49:51]: Cycle time set to 0.004s
+[11/12/21 16:49:51]: Simulation cycle time set to 0.1s
+[11/12/21 16:49:51]: Controller IP address could not be updated
+[11/12/21 16:49:51]: STARC : No STARC board detected on PCI.
+[11/12/21 16:49:51]: Mcp = TSimulated
+[11/12/21 16:49:51]: Power shutdown delay set to 0 s
+[11/12/21 16:49:51]: Gravity (x y z): 0         0        -9.81
+[11/12/21 16:49:51]: Power hour count = 0:00:00
+[11/12/21 16:49:51]: Mac Address = 0a-00-27-00-00-13
+[11/12/21 16:49:51]: COM-PC: server created on all interfaces [5653]
+[11/12/21 16:49:51]: VAL3: s6.8 Feb  9 2010
+[11/12/21 16:49:51]: Option testMode: demo 
+[11/12/21 16:49:51]: Configuration Version: D24266415A 
+[11/12/21 16:49:51]: Machine Number: ? 
+[11/12/21 16:49:51]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/12/21 16:49:51]: Arm serial number: F11_5GY1A1_A_01 
+[11/12/21 16:49:51]: EP: s6.8 Feb  3 2010
+[11/12/21 16:49:51]: SCA: s6.8 Feb  3 2010
+[11/12/21 16:49:51]: PLC: s6.8 Feb  3 2010
+[11/12/21 16:49:51]: New profile : default
+[11/12/21 16:49:51]: Working mode:manual.
+[11/12/21 16:49:51]: End of arm power shutdown phase.
+[11/12/21 16:49:52]: COM-PC: create session 127.0.0.1 on port 50443 id=#54071104
+[11/12/21 16:50:06]: Settling arm power...
+[11/12/21 16:50:07]: Arm power settled.
+[11/12/21 16:50:07]: Unknown event:motion generator activated
+[11/12/21 16:50:08]: toolA application started
+[11/12/21 16:50:08]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 15:36:25]: -----------------------------------------------
+[11/19/21 15:36:25]: Logger started
+[11/19/21 15:36:30]: Unknown event:Communication established
+[11/19/21 15:36:31]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/19/21 15:36:31]: Cycle time set to 0.004s
+[11/19/21 15:36:31]: Simulation cycle time set to 0.1s
+[11/19/21 15:36:31]: Controller IP address could not be updated
+[11/19/21 15:36:31]: STARC : No STARC board detected on PCI.
+[11/19/21 15:36:31]: Mcp = TSimulated
+[11/19/21 15:36:31]: Power shutdown delay set to 0 s
+[11/19/21 15:36:31]: Gravity (x y z): 0         0        -9.81
+[11/19/21 15:36:31]: Power hour count = 0:00:00
+[11/19/21 15:36:31]: Mac Address = 0a-00-27-00-00-00
+[11/19/21 15:36:31]: Working mode:invalid.
+[11/19/21 15:36:31]: End of arm power shutdown phase.
+[11/19/21 15:36:31]: COM-PC: server created on all interfaces [5653]
+[11/19/21 15:36:31]: VAL3: s6.8 Feb  9 2010
+[11/19/21 15:36:31]: Option testMode: demo 
+[11/19/21 15:36:31]: Configuration Version: D24266415A 
+[11/19/21 15:36:31]: Machine Number: ? 
+[11/19/21 15:36:31]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/19/21 15:36:31]: Arm serial number: F11_5GY1A1_A_01 
+[11/19/21 15:36:31]: EP: s6.8 Feb  3 2010
+[11/19/21 15:36:31]: SCA: s6.8 Feb  3 2010
+[11/19/21 15:36:31]: PLC: s6.8 Feb  3 2010
+[11/19/21 15:36:31]: New profile : default
+[11/19/21 15:36:31]: Working mode:manual.
+[11/19/21 15:36:32]: COM-PC: create session 127.0.0.1 on port 49304 id=#34940592
+[11/19/21 15:36:53]: COM-PC: destroy session 127.0.0.1 on port 49304 id=#34940592
+[11/19/21 15:37:37]: Settling arm power...
+[11/19/21 15:37:37]: Arm power settled.
+[11/19/21 15:37:38]: Unknown event:motion generator activated
+[11/19/21 15:37:41]: toolA application started
+[11/19/21 15:37:41]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 15:38:30]: -----------------------------------------------
+[11/19/21 15:38:30]: Logger started
+[11/19/21 15:38:34]: Unknown event:Communication established
+[11/19/21 15:38:34]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/19/21 15:38:34]: Cycle time set to 0.004s
+[11/19/21 15:38:34]: Simulation cycle time set to 0.1s
+[11/19/21 15:38:34]: Controller IP address could not be updated
+[11/19/21 15:38:34]: STARC : No STARC board detected on PCI.
+[11/19/21 15:38:34]: Mcp = TSimulated
+[11/19/21 15:38:34]: Power shutdown delay set to 0 s
+[11/19/21 15:38:34]: Gravity (x y z): 0         0        -9.81
+[11/19/21 15:38:34]: Power hour count = 0:00:00
+[11/19/21 15:38:34]: Mac Address = 0a-00-27-00-00-00
+[11/19/21 15:38:34]: COM-PC: server created on all interfaces [5653]
+[11/19/21 15:38:34]: VAL3: s6.8 Feb  9 2010
+[11/19/21 15:38:34]: Option testMode: demo 
+[11/19/21 15:38:34]: Configuration Version: D24266415A 
+[11/19/21 15:38:34]: Machine Number: ? 
+[11/19/21 15:38:34]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/19/21 15:38:34]: Arm serial number: F11_5GY1A1_A_01 
+[11/19/21 15:38:34]: EP: s6.8 Feb  3 2010
+[11/19/21 15:38:34]: SCA: s6.8 Feb  3 2010
+[11/19/21 15:38:34]: PLC: s6.8 Feb  3 2010
+[11/19/21 15:38:34]: New profile : default
+[11/19/21 15:38:34]: COM-PC: create session 127.0.0.1 on port 49327 id=#34412416
+[11/19/21 15:38:34]: Working mode:manual.
+[11/19/21 15:38:35]: End of arm power shutdown phase.
+[11/19/21 15:38:49]: toolA application started
+[11/19/21 15:38:49]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 15:38:50]: Settling arm power...
+[11/19/21 15:38:51]: Arm power settled.
+[11/19/21 15:38:51]: Unknown event:motion generator activated
+[11/19/21 15:46:55]: -----------------------------------------------
+[11/19/21 15:46:55]: Logger started
+[11/19/21 15:46:59]: Unknown event:Communication established
+[11/19/21 15:46:59]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/19/21 15:46:59]: Cycle time set to 0.004s
+[11/19/21 15:46:59]: Simulation cycle time set to 0.1s
+[11/19/21 15:46:59]: Controller IP address could not be updated
+[11/19/21 15:46:59]: STARC : No STARC board detected on PCI.
+[11/19/21 15:46:59]: Mcp = TSimulated
+[11/19/21 15:46:59]: Power shutdown delay set to 0 s
+[11/19/21 15:46:59]: Gravity (x y z): 0         0        -9.81
+[11/19/21 15:46:59]: Power hour count = 0:00:00
+[11/19/21 15:46:59]: Mac Address = 0a-00-27-00-00-00
+[11/19/21 15:46:59]: COM-PC: server created on all interfaces [5653]
+[11/19/21 15:46:59]: VAL3: s6.8 Feb  9 2010
+[11/19/21 15:46:59]: Option testMode: demo 
+[11/19/21 15:46:59]: Configuration Version: D24266415A 
+[11/19/21 15:46:59]: Machine Number: ? 
+[11/19/21 15:46:59]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/19/21 15:46:59]: Arm serial number: F11_5GY1A1_A_01 
+[11/19/21 15:46:59]: EP: s6.8 Feb  3 2010
+[11/19/21 15:46:59]: SCA: s6.8 Feb  3 2010
+[11/19/21 15:46:59]: PLC: s6.8 Feb  3 2010
+[11/19/21 15:46:59]: New profile : default
+[11/19/21 15:47:00]: COM-PC: create session 127.0.0.1 on port 49393 id=#55054240
+[11/19/21 15:47:00]: Working mode:manual.
+[11/19/21 15:47:00]: End of arm power shutdown phase.
+[11/19/21 15:47:09]: toolA application started
+[11/19/21 15:47:09]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 15:47:11]: Settling arm power...
+[11/19/21 15:47:11]: Arm power settled.
+[11/19/21 15:47:11]: Jog mode cannot be selected: first enable arm power.
+[11/19/21 15:47:12]: Unknown event:motion generator activated
+[11/19/21 15:47:13]: COM-PC: destroy session 127.0.0.1 on port 49393 id=#55054240
+[11/19/21 15:47:16]: COM-PC: create session 127.0.0.1 on port 49396 id=#34940696
+[11/19/21 15:52:33]: -----------------------------------------------
+[11/19/21 15:52:33]: Logger started
+[11/19/21 15:52:37]: Unknown event:Communication established
+[11/19/21 15:52:37]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/19/21 15:52:37]: Cycle time set to 0.004s
+[11/19/21 15:52:37]: Simulation cycle time set to 0.1s
+[11/19/21 15:52:37]: Controller IP address could not be updated
+[11/19/21 15:52:37]: STARC : No STARC board detected on PCI.
+[11/19/21 15:52:37]: Mcp = TSimulated
+[11/19/21 15:52:37]: Power shutdown delay set to 0 s
+[11/19/21 15:52:37]: Gravity (x y z): 0         0        -9.81
+[11/19/21 15:52:37]: Power hour count = 0:00:00
+[11/19/21 15:52:37]: Mac Address = 0a-00-27-00-00-00
+[11/19/21 15:52:37]: COM-PC: server created on all interfaces [5653]
+[11/19/21 15:52:37]: VAL3: s6.8 Feb  9 2010
+[11/19/21 15:52:37]: Option testMode: demo 
+[11/19/21 15:52:37]: Configuration Version: D24266415A 
+[11/19/21 15:52:37]: Machine Number: ? 
+[11/19/21 15:52:37]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/19/21 15:52:37]: Arm serial number: F11_5GY1A1_A_01 
+[11/19/21 15:52:37]: EP: s6.8 Feb  3 2010
+[11/19/21 15:52:37]: SCA: s6.8 Feb  3 2010
+[11/19/21 15:52:37]: PLC: s6.8 Feb  3 2010
+[11/19/21 15:52:37]: New profile : default
+[11/19/21 15:52:37]: Working mode:manual.
+[11/19/21 15:52:38]: End of arm power shutdown phase.
+[11/19/21 15:52:38]: COM-PC: create session 127.0.0.1 on port 49425 id=#35792664
+[11/19/21 15:52:56]: toolA application started
+[11/19/21 15:52:56]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 15:52:57]: Settling arm power...
+[11/19/21 15:52:58]: Arm power settled.
+[11/19/21 15:52:58]: Unknown event:motion generator activated
+[11/19/21 16:04:39]: -----------------------------------------------
+[11/19/21 16:04:39]: Logger started
+[11/19/21 16:04:43]: Unknown event:Communication established
+[11/19/21 16:04:43]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[11/19/21 16:04:43]: Cycle time set to 0.004s
+[11/19/21 16:04:43]: Simulation cycle time set to 0.1s
+[11/19/21 16:04:43]: Controller IP address could not be updated
+[11/19/21 16:04:43]: STARC : No STARC board detected on PCI.
+[11/19/21 16:04:43]: Mcp = TSimulated
+[11/19/21 16:04:43]: Power shutdown delay set to 0 s
+[11/19/21 16:04:43]: Gravity (x y z): 0         0        -9.81
+[11/19/21 16:04:43]: Power hour count = 0:00:00
+[11/19/21 16:04:43]: Mac Address = 0a-00-27-00-00-00
+[11/19/21 16:04:43]: COM-PC: server created on all interfaces [5653]
+[11/19/21 16:04:43]: VAL3: s6.8 Feb  9 2010
+[11/19/21 16:04:43]: Option testMode: demo 
+[11/19/21 16:04:43]: Configuration Version: D24266415A 
+[11/19/21 16:04:43]: Machine Number: ? 
+[11/19/21 16:04:43]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[11/19/21 16:04:43]: Arm serial number: F11_5GY1A1_A_01 
+[11/19/21 16:04:43]: EP: s6.8 Feb  3 2010
+[11/19/21 16:04:43]: SCA: s6.8 Feb  3 2010
+[11/19/21 16:04:43]: PLC: s6.8 Feb  3 2010
+[11/19/21 16:04:43]: New profile : default
+[11/19/21 16:04:43]: Working mode:manual.
+[11/19/21 16:04:44]: End of arm power shutdown phase.
+[11/19/21 16:04:44]: COM-PC: create session 127.0.0.1 on port 49500 id=#54071200
+[11/19/21 16:04:54]: COM-PC: destroy session 127.0.0.1 on port 49500 id=#54071200
+[11/19/21 16:04:56]: toolA application started
+[11/19/21 16:04:56]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 16:04:57]: COM-PC: create session 127.0.0.1 on port 49506 id=#34809624
+[11/19/21 16:05:02]: Settling arm power...
+[11/19/21 16:05:02]: Arm power settled.
+[11/19/21 16:05:03]: Unknown event:motion generator activated
+[11/19/21 16:05:32]: toolA application stopped
+[11/19/21 16:05:49]: toolA application started
+[11/19/21 16:05:49]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[11/19/21 16:06:19]: toolA application stopped
+[12/03/21 15:50:18]: -----------------------------------------------
+[12/03/21 15:50:18]: Logger started
+[12/03/21 15:50:22]: Unknown event:Communication established
+[12/03/21 15:50:24]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 15:50:24]: Cycle time set to 0.004s
+[12/03/21 15:50:24]: Simulation cycle time set to 0.1s
+[12/03/21 15:50:24]: Controller IP address could not be updated
+[12/03/21 15:50:24]: STARC : No STARC board detected on PCI.
+[12/03/21 15:50:24]: Mcp = TSimulated
+[12/03/21 15:50:24]: Power shutdown delay set to 0 s
+[12/03/21 15:50:24]: Gravity (x y z): 0         0        -9.81
+[12/03/21 15:50:24]: Power hour count = 0:00:00
+[12/03/21 15:50:24]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 15:50:24]: Working mode:invalid.
+[12/03/21 15:50:24]: End of arm power shutdown phase.
+[12/03/21 15:50:24]: COM-PC: server created on all interfaces [5653]
+[12/03/21 15:50:24]: VAL3: s6.8 Feb  9 2010
+[12/03/21 15:50:24]: Option testMode: demo 
+[12/03/21 15:50:24]: Configuration Version: D24266415A 
+[12/03/21 15:50:24]: Machine Number: ? 
+[12/03/21 15:50:24]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 15:50:24]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 15:50:24]: EP: s6.8 Feb  3 2010
+[12/03/21 15:50:24]: SCA: s6.8 Feb  3 2010
+[12/03/21 15:50:24]: PLC: s6.8 Feb  3 2010
+[12/03/21 15:50:24]: New profile : default
+[12/03/21 15:50:24]: Working mode:manual.
+[12/03/21 15:50:24]: COM-PC: create session 127.0.0.1 on port 49539 id=#33786664
+[12/03/21 15:50:37]: Saving controller context...
+[12/03/21 15:50:37]: Controller temperature: 28°C
+[12/03/21 15:50:37]: CPU temperature: 28°C
+[12/03/21 15:50:45]: toolA application started
+[12/03/21 15:50:45]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 15:50:54]: Jog mode cannot be selected: first enable arm power.
+[12/03/21 15:50:55]: Settling arm power...
+[12/03/21 15:50:56]: Arm power settled.
+[12/03/21 15:50:56]: Unknown event:motion generator activated
+[12/03/21 15:51:38]: toolA application stopped
+[12/03/21 15:51:42]: toolA application started
+[12/03/21 15:51:42]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 15:52:17]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[12/03/21 15:52:17]: Cannot complete move: destination is out of reach.(out of software joint limits) (1)
+[12/03/21 15:52:17]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/03/21 15:53:24]: -----------------------------------------------
+[12/03/21 15:53:24]: Logger started
+[12/03/21 15:53:28]: Unknown event:Communication established
+[12/03/21 15:53:28]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 15:53:28]: Cycle time set to 0.004s
+[12/03/21 15:53:28]: Simulation cycle time set to 0.1s
+[12/03/21 15:53:28]: Controller IP address could not be updated
+[12/03/21 15:53:28]: STARC : No STARC board detected on PCI.
+[12/03/21 15:53:28]: Mcp = TSimulated
+[12/03/21 15:53:28]: Power shutdown delay set to 0 s
+[12/03/21 15:53:28]: Gravity (x y z): 0         0        -9.81
+[12/03/21 15:53:28]: Power hour count = 0:00:00
+[12/03/21 15:53:28]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 15:53:28]: COM-PC: server created on all interfaces [5653]
+[12/03/21 15:53:28]: VAL3: s6.8 Feb  9 2010
+[12/03/21 15:53:28]: Option testMode: demo 
+[12/03/21 15:53:28]: Configuration Version: D24266415A 
+[12/03/21 15:53:28]: Machine Number: ? 
+[12/03/21 15:53:28]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 15:53:28]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 15:53:28]: EP: s6.8 Feb  3 2010
+[12/03/21 15:53:28]: SCA: s6.8 Feb  3 2010
+[12/03/21 15:53:28]: PLC: s6.8 Feb  3 2010
+[12/03/21 15:53:28]: New profile : default
+[12/03/21 15:53:29]: COM-PC: create session 127.0.0.1 on port 49559 id=#53682368
+[12/03/21 15:53:29]: Working mode:manual.
+[12/03/21 15:53:29]: End of arm power shutdown phase.
+[12/03/21 15:53:43]: Settling arm power...
+[12/03/21 15:53:43]: Arm power settled.
+[12/03/21 15:53:43]: Unknown event:motion generator activated
+[12/03/21 15:53:45]: toolA application started
+[12/03/21 15:53:45]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 15:54:23]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/03/21 15:55:43]: toolA application stopped
+[12/03/21 15:55:47]: Manual motion mode:Joint
+[12/03/21 15:55:47]: Unknown event:motion generator desactivated
+[12/03/21 15:55:47]: Unknown event:motion generator activated
+[12/03/21 15:56:02]: Watchdog occurs in Cs8 priority:75
+[12/03/21 15:56:58]: Point  rest  modified
+[12/03/21 15:57:01]: Point  rest  taught
+[12/03/21 15:57:11]: Manual motion mode:Disabled
+[12/03/21 15:57:11]: Unknown event:motion generator desactivated
+[12/03/21 15:57:11]: Unknown event:motion generator activated
+[12/03/21 15:57:12]: Manual motion mode:Joint
+[12/03/21 15:57:12]: Unknown event:motion generator desactivated
+[12/03/21 15:57:12]: Unknown event:motion generator activated
+[12/03/21 15:58:39]: -----------------------------------------------
+[12/03/21 15:58:39]: Logger started
+[12/03/21 15:58:44]: Unknown event:Communication established
+[12/03/21 15:58:44]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 15:58:44]: Cycle time set to 0.004s
+[12/03/21 15:58:44]: Simulation cycle time set to 0.1s
+[12/03/21 15:58:44]: Controller IP address could not be updated
+[12/03/21 15:58:44]: STARC : No STARC board detected on PCI.
+[12/03/21 15:58:44]: Mcp = TSimulated
+[12/03/21 15:58:44]: Power shutdown delay set to 0 s
+[12/03/21 15:58:44]: Gravity (x y z): 0         0        -9.81
+[12/03/21 15:58:44]: Power hour count = 0:00:00
+[12/03/21 15:58:44]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 15:58:44]: COM-PC: server created on all interfaces [5653]
+[12/03/21 15:58:44]: VAL3: s6.8 Feb  9 2010
+[12/03/21 15:58:44]: Option testMode: demo 
+[12/03/21 15:58:44]: Configuration Version: D24266415A 
+[12/03/21 15:58:44]: Machine Number: ? 
+[12/03/21 15:58:44]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 15:58:44]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 15:58:44]: EP: s6.8 Feb  3 2010
+[12/03/21 15:58:44]: SCA: s6.8 Feb  3 2010
+[12/03/21 15:58:44]: PLC: s6.8 Feb  3 2010
+[12/03/21 15:58:44]: New profile : default
+[12/03/21 15:58:44]: Working mode:manual.
+[12/03/21 15:58:44]: COM-PC: create session 127.0.0.1 on port 49593 id=#54993088
+[12/03/21 15:58:45]: End of arm power shutdown phase.
+[12/03/21 15:58:51]: Settling arm power...
+[12/03/21 15:58:52]: Arm power settled.
+[12/03/21 15:58:52]: Unknown event:motion generator activated
+[12/03/21 15:58:53]: Manual motion mode:Joint
+[12/03/21 15:58:53]: Unknown event:motion generator desactivated
+[12/03/21 15:58:53]: Unknown event:motion generator activated
+[12/03/21 15:59:00]: Manual motion mode:Disabled
+[12/03/21 15:59:00]: Unknown event:motion generator desactivated
+[12/03/21 15:59:00]: Unknown event:motion generator activated
+[12/03/21 15:59:05]: Manual motion mode:Joint
+[12/03/21 15:59:05]: Unknown event:motion generator desactivated
+[12/03/21 15:59:05]: Unknown event:motion generator activated
+[12/03/21 15:59:34]: Point  rest  taught
+[12/03/21 16:00:08]: -----------------------------------------------
+[12/03/21 16:00:08]: Logger started
+[12/03/21 16:00:12]: Unknown event:Communication established
+[12/03/21 16:00:12]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:00:12]: Cycle time set to 0.004s
+[12/03/21 16:00:12]: Simulation cycle time set to 0.1s
+[12/03/21 16:00:12]: Controller IP address could not be updated
+[12/03/21 16:00:12]: STARC : No STARC board detected on PCI.
+[12/03/21 16:00:12]: Mcp = TSimulated
+[12/03/21 16:00:12]: Power shutdown delay set to 0 s
+[12/03/21 16:00:12]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:00:12]: Power hour count = 0:00:00
+[12/03/21 16:00:12]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:00:12]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:00:12]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:00:12]: Option testMode: demo 
+[12/03/21 16:00:12]: Configuration Version: D24266415A 
+[12/03/21 16:00:12]: Machine Number: ? 
+[12/03/21 16:00:12]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:00:12]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:00:12]: EP: s6.8 Feb  3 2010
+[12/03/21 16:00:12]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:00:12]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:00:12]: New profile : default
+[12/03/21 16:00:13]: Working mode:manual.
+[12/03/21 16:00:13]: COM-PC: create session 127.0.0.1 on port 49607 id=#54862016
+[12/03/21 16:00:13]: End of arm power shutdown phase.
+[12/03/21 16:00:38]: Manual motion mode:Joint
+[12/03/21 16:00:39]: Settling arm power...
+[12/03/21 16:00:40]: Arm power settled.
+[12/03/21 16:00:40]: Unknown event:motion generator activated
+[12/03/21 16:02:47]: Manual motion mode:Frame
+[12/03/21 16:02:48]: Manual motion mode:Joint
+[12/03/21 16:03:01]: Manual motion mode:Disabled
+[12/03/21 16:03:01]: Unknown event:motion generator desactivated
+[12/03/21 16:03:01]: Unknown event:motion generator activated
+[12/03/21 16:03:01]: Manual motion mode:Frame
+[12/03/21 16:03:01]: Unknown event:motion generator desactivated
+[12/03/21 16:03:01]: Unknown event:motion generator activated
+[12/03/21 16:03:19]: Manual motion mode:Joint
+[12/03/21 16:03:45]: Joint  intermedite1  taught
+[12/03/21 16:03:59]: Joint  intermedite1  taught (1)
+[12/03/21 16:04:21]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 16:04:21]: Unknown event:motion generator desactivated
+[12/03/21 16:04:21]: Unknown event:motion generator activated
+[12/03/21 16:04:23]: Manual motion mode:Joint
+[12/03/21 16:04:23]: Unknown event:motion generator desactivated
+[12/03/21 16:04:23]: Unknown event:motion generator activated
+[12/03/21 16:04:24]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 16:04:24]: Unknown event:motion generator desactivated
+[12/03/21 16:04:24]: Unknown event:motion generator activated
+[12/03/21 16:04:25]: Manual motion mode:Joint
+[12/03/21 16:04:25]: Unknown event:motion generator desactivated
+[12/03/21 16:04:25]: Unknown event:motion generator activated
+[12/03/21 16:04:44]: Joint  intermediate2  taught
+[12/03/21 16:04:52]: Manual motion mode:Point
+[12/03/21 16:09:26]: -----------------------------------------------
+[12/03/21 16:09:26]: Logger started
+[12/03/21 16:09:30]: Unknown event:Communication established
+[12/03/21 16:09:30]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:09:30]: Cycle time set to 0.004s
+[12/03/21 16:09:30]: Simulation cycle time set to 0.1s
+[12/03/21 16:09:30]: Controller IP address could not be updated
+[12/03/21 16:09:30]: STARC : No STARC board detected on PCI.
+[12/03/21 16:09:30]: Mcp = TSimulated
+[12/03/21 16:09:30]: Power shutdown delay set to 0 s
+[12/03/21 16:09:30]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:09:30]: Power hour count = 0:00:00
+[12/03/21 16:09:30]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:09:30]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:09:30]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:09:30]: Option testMode: demo 
+[12/03/21 16:09:30]: Configuration Version: D24266415A 
+[12/03/21 16:09:30]: Machine Number: ? 
+[12/03/21 16:09:30]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:09:30]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:09:30]: EP: s6.8 Feb  3 2010
+[12/03/21 16:09:30]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:09:30]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:09:30]: New profile : default
+[12/03/21 16:09:31]: Working mode:manual.
+[12/03/21 16:09:31]: End of arm power shutdown phase.
+[12/03/21 16:09:32]: COM-PC: create session 127.0.0.1 on port 49664 id=#34376488
+[12/03/21 16:09:46]: Manual motion mode:Joint
+[12/03/21 16:10:46]: Jog mode cannot be selected: first enable arm power.
+[12/03/21 16:10:46]: Jog mode cannot be selected: first enable arm power. (1)
+[12/03/21 16:10:48]: Settling arm power...
+[12/03/21 16:10:49]: Arm power settled.
+[12/03/21 16:10:49]: Unknown event:motion generator activated
+[12/03/21 16:11:14]: Joint  rest1  taught
+[12/03/21 16:11:18]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 16:11:18]: Unknown event:motion generator desactivated
+[12/03/21 16:11:18]: Unknown event:motion generator activated
+[12/03/21 16:11:20]: Manual motion mode:Joint
+[12/03/21 16:11:20]: Unknown event:motion generator desactivated
+[12/03/21 16:11:20]: Unknown event:motion generator activated
+[12/03/21 16:11:21]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 16:11:21]: Unknown event:motion generator desactivated
+[12/03/21 16:11:21]: Unknown event:motion generator activated
+[12/03/21 16:11:22]: Jog move impossible: first select a jog mode.
+[12/03/21 16:11:26]: Manual motion mode:Joint
+[12/03/21 16:11:26]: Unknown event:motion generator desactivated
+[12/03/21 16:11:26]: Unknown event:motion generator activated
+[12/03/21 16:11:27]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 16:11:27]: Unknown event:motion generator desactivated
+[12/03/21 16:11:27]: Unknown event:motion generator activated
+[12/03/21 16:11:27]: Manual motion mode:Joint
+[12/03/21 16:11:27]: Unknown event:motion generator desactivated
+[12/03/21 16:11:27]: Unknown event:motion generator activated
+[12/03/21 16:11:45]: Joint  rest2  taught
+[12/03/21 16:11:51]: Manual motion mode:Point
+[12/03/21 16:13:16]: -----------------------------------------------
+[12/03/21 16:13:16]: Logger started
+[12/03/21 16:13:20]: Unknown event:Communication established
+[12/03/21 16:13:20]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:13:20]: Cycle time set to 0.004s
+[12/03/21 16:13:20]: Simulation cycle time set to 0.1s
+[12/03/21 16:13:20]: Controller IP address could not be updated
+[12/03/21 16:13:20]: STARC : No STARC board detected on PCI.
+[12/03/21 16:13:20]: Mcp = TSimulated
+[12/03/21 16:13:20]: Power shutdown delay set to 0 s
+[12/03/21 16:13:20]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:13:20]: Power hour count = 0:00:00
+[12/03/21 16:13:20]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:13:20]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:13:20]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:13:20]: Option testMode: demo 
+[12/03/21 16:13:20]: Configuration Version: D24266415A 
+[12/03/21 16:13:20]: Machine Number: ? 
+[12/03/21 16:13:20]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:13:20]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:13:20]: EP: s6.8 Feb  3 2010
+[12/03/21 16:13:20]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:13:20]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:13:20]: New profile : default
+[12/03/21 16:13:21]: COM-PC: create session 127.0.0.1 on port 49688 id=#53747904
+[12/03/21 16:13:21]: Working mode:manual.
+[12/03/21 16:13:21]: End of arm power shutdown phase.
+[12/03/21 16:13:29]: Settling arm power...
+[12/03/21 16:13:29]: Arm power settled.
+[12/03/21 16:13:29]: Unknown event:motion generator activated
+[12/03/21 16:13:39]: toolA application started
+[12/03/21 16:13:39]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:15:10]: toolA application stopped
+[12/03/21 16:18:19]: -----------------------------------------------
+[12/03/21 16:18:19]: Logger started
+[12/03/21 16:18:23]: Unknown event:Communication established
+[12/03/21 16:18:23]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:18:23]: Cycle time set to 0.004s
+[12/03/21 16:18:23]: Simulation cycle time set to 0.1s
+[12/03/21 16:18:23]: Controller IP address could not be updated
+[12/03/21 16:18:23]: STARC : No STARC board detected on PCI.
+[12/03/21 16:18:23]: Mcp = TSimulated
+[12/03/21 16:18:23]: Power shutdown delay set to 0 s
+[12/03/21 16:18:23]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:18:23]: Power hour count = 0:00:00
+[12/03/21 16:18:23]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:18:23]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:18:23]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:18:23]: Option testMode: demo 
+[12/03/21 16:18:23]: Configuration Version: D24266415A 
+[12/03/21 16:18:23]: Machine Number: ? 
+[12/03/21 16:18:23]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:18:23]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:18:23]: EP: s6.8 Feb  3 2010
+[12/03/21 16:18:23]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:18:23]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:18:23]: New profile : default
+[12/03/21 16:18:23]: COM-PC: create session 127.0.0.1 on port 49717 id=#54860976
+[12/03/21 16:18:24]: Working mode:manual.
+[12/03/21 16:18:24]: End of arm power shutdown phase.
+[12/03/21 16:18:39]: toolA application started
+[12/03/21 16:18:39]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:18:41]: Settling arm power...
+[12/03/21 16:18:41]: Arm power settled.
+[12/03/21 16:18:42]: Unknown event:motion generator activated
+[12/03/21 16:20:44]: toolA application stopped
+[12/03/21 16:20:48]: toolA application started
+[12/03/21 16:20:48]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:21:33]: -----------------------------------------------
+[12/03/21 16:21:33]: Logger started
+[12/03/21 16:21:37]: Unknown event:Communication established
+[12/03/21 16:21:37]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:21:37]: Cycle time set to 0.004s
+[12/03/21 16:21:37]: Simulation cycle time set to 0.1s
+[12/03/21 16:21:37]: Controller IP address could not be updated
+[12/03/21 16:21:37]: STARC : No STARC board detected on PCI.
+[12/03/21 16:21:37]: Mcp = TSimulated
+[12/03/21 16:21:37]: Power shutdown delay set to 0 s
+[12/03/21 16:21:37]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:21:37]: Power hour count = 0:00:00
+[12/03/21 16:21:37]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:21:37]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:21:37]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:21:37]: Option testMode: demo 
+[12/03/21 16:21:37]: Configuration Version: D24266415A 
+[12/03/21 16:21:37]: Machine Number: ? 
+[12/03/21 16:21:37]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:21:37]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:21:37]: EP: s6.8 Feb  3 2010
+[12/03/21 16:21:37]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:21:37]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:21:37]: New profile : default
+[12/03/21 16:21:37]: COM-PC: create session 127.0.0.1 on port 49744 id=#54140080
+[12/03/21 16:21:37]: Working mode:manual.
+[12/03/21 16:21:38]: End of arm power shutdown phase.
+[12/03/21 16:22:03]: Settling arm power...
+[12/03/21 16:22:03]: Arm power settled.
+[12/03/21 16:22:03]: Unknown event:motion generator activated
+[12/03/21 16:22:08]: toolA application started
+[12/03/21 16:22:08]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:23:32]: toolA application stopped
+[12/03/21 16:23:42]: toolA application started
+[12/03/21 16:23:42]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:23:48]: toolA application stopped
+[12/03/21 16:32:04]: -----------------------------------------------
+[12/03/21 16:32:04]: Logger started
+[12/03/21 16:32:08]: Unknown event:Communication established
+[12/03/21 16:32:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:32:08]: Cycle time set to 0.004s
+[12/03/21 16:32:08]: Simulation cycle time set to 0.1s
+[12/03/21 16:32:08]: Controller IP address could not be updated
+[12/03/21 16:32:08]: STARC : No STARC board detected on PCI.
+[12/03/21 16:32:08]: Mcp = TSimulated
+[12/03/21 16:32:08]: Power shutdown delay set to 0 s
+[12/03/21 16:32:08]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:32:08]: Power hour count = 0:00:00
+[12/03/21 16:32:08]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:32:08]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:32:08]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:32:08]: Option testMode: demo 
+[12/03/21 16:32:08]: Configuration Version: D24266415A 
+[12/03/21 16:32:08]: Machine Number: ? 
+[12/03/21 16:32:08]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:32:08]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:32:08]: EP: s6.8 Feb  3 2010
+[12/03/21 16:32:08]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:32:08]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:32:08]: New profile : default
+[12/03/21 16:32:08]: COM-PC: create session 127.0.0.1 on port 49800 id=#54074544
+[12/03/21 16:32:09]: Working mode:manual.
+[12/03/21 16:32:09]: End of arm power shutdown phase.
+[12/03/21 16:32:32]: toolA application started
+[12/03/21 16:32:32]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:32:42]: Settling arm power...
+[12/03/21 16:32:42]: Arm power settled.
+[12/03/21 16:32:43]: Unknown event:motion generator activated
+[12/03/21 16:32:53]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[12/03/21 16:32:53]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/03/21 16:33:58]: -----------------------------------------------
+[12/03/21 16:33:58]: Logger started
+[12/03/21 16:34:02]: Unknown event:Communication established
+[12/03/21 16:34:02]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:34:02]: Cycle time set to 0.004s
+[12/03/21 16:34:02]: Simulation cycle time set to 0.1s
+[12/03/21 16:34:02]: Controller IP address could not be updated
+[12/03/21 16:34:02]: STARC : No STARC board detected on PCI.
+[12/03/21 16:34:02]: Mcp = TSimulated
+[12/03/21 16:34:02]: Power shutdown delay set to 0 s
+[12/03/21 16:34:02]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:34:02]: Power hour count = 0:00:00
+[12/03/21 16:34:02]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:34:02]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:34:02]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:34:02]: Option testMode: demo 
+[12/03/21 16:34:02]: Configuration Version: D24266415A 
+[12/03/21 16:34:02]: Machine Number: ? 
+[12/03/21 16:34:02]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:34:02]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:34:02]: EP: s6.8 Feb  3 2010
+[12/03/21 16:34:02]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:34:02]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:34:02]: New profile : default
+[12/03/21 16:34:02]: COM-PC: create session 127.0.0.1 on port 49818 id=#54533296
+[12/03/21 16:34:02]: Working mode:manual.
+[12/03/21 16:34:03]: End of arm power shutdown phase.
+[12/03/21 16:34:06]: Settling arm power...
+[12/03/21 16:34:07]: Arm power settled.
+[12/03/21 16:34:07]: Unknown event:motion generator activated
+[12/03/21 16:34:14]: toolA application started
+[12/03/21 16:34:14]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:34:20]: Cannot complete move: destination is out of reach.(out of software joint limits)
+[12/03/21 16:34:21]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/03/21 16:34:32]: Manual motion mode:Joint
+[12/03/21 16:34:32]: Unknown event:motion generator desactivated
+[12/03/21 16:34:32]: Unknown event:motion generator activated
+[12/03/21 16:36:36]: -----------------------------------------------
+[12/03/21 16:36:36]: Logger started
+[12/03/21 16:36:40]: Unknown event:Communication established
+[12/03/21 16:36:41]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:36:41]: Cycle time set to 0.004s
+[12/03/21 16:36:41]: Simulation cycle time set to 0.1s
+[12/03/21 16:36:41]: Controller IP address could not be updated
+[12/03/21 16:36:41]: STARC : No STARC board detected on PCI.
+[12/03/21 16:36:41]: Mcp = TSimulated
+[12/03/21 16:36:41]: Power shutdown delay set to 0 s
+[12/03/21 16:36:41]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:36:41]: Power hour count = 0:00:00
+[12/03/21 16:36:41]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:36:41]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:36:41]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:36:41]: Option testMode: demo 
+[12/03/21 16:36:41]: Configuration Version: D24266415A 
+[12/03/21 16:36:41]: Machine Number: ? 
+[12/03/21 16:36:41]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:36:41]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:36:41]: EP: s6.8 Feb  3 2010
+[12/03/21 16:36:41]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:36:41]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:36:41]: New profile : default
+[12/03/21 16:36:41]: COM-PC: create session 127.0.0.1 on port 49839 id=#53812400
+[12/03/21 16:36:41]: Working mode:manual.
+[12/03/21 16:36:41]: End of arm power shutdown phase.
+[12/03/21 16:36:55]: toolA application started
+[12/03/21 16:36:55]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:36:58]: Settling arm power...
+[12/03/21 16:36:58]: Arm power settled.
+[12/03/21 16:36:59]: Unknown event:motion generator activated
+[12/03/21 16:37:55]: -----------------------------------------------
+[12/03/21 16:37:55]: Logger started
+[12/03/21 16:37:59]: Unknown event:Communication established
+[12/03/21 16:37:59]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:37:59]: Cycle time set to 0.004s
+[12/03/21 16:37:59]: Simulation cycle time set to 0.1s
+[12/03/21 16:37:59]: Controller IP address could not be updated
+[12/03/21 16:37:59]: STARC : No STARC board detected on PCI.
+[12/03/21 16:37:59]: Mcp = TSimulated
+[12/03/21 16:37:59]: Power shutdown delay set to 0 s
+[12/03/21 16:37:59]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:37:59]: Power hour count = 0:00:00
+[12/03/21 16:37:59]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:37:59]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:37:59]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:37:59]: Option testMode: demo 
+[12/03/21 16:37:59]: Configuration Version: D24266415A 
+[12/03/21 16:37:59]: Machine Number: ? 
+[12/03/21 16:37:59]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:37:59]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:37:59]: EP: s6.8 Feb  3 2010
+[12/03/21 16:37:59]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:37:59]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:37:59]: New profile : default
+[12/03/21 16:37:59]: COM-PC: create session 127.0.0.1 on port 49860 id=#53615792
+[12/03/21 16:38:00]: Working mode:manual.
+[12/03/21 16:38:00]: End of arm power shutdown phase.
+[12/03/21 16:38:02]: Settling arm power...
+[12/03/21 16:38:03]: Arm power settled.
+[12/03/21 16:38:03]: Unknown event:motion generator activated
+[12/03/21 16:38:11]: toolA application started
+[12/03/21 16:38:11]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:52:00]: -----------------------------------------------
+[12/03/21 16:52:00]: Logger started
+[12/03/21 16:52:04]: Unknown event:Communication established
+[12/03/21 16:52:04]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:52:04]: Cycle time set to 0.004s
+[12/03/21 16:52:04]: Simulation cycle time set to 0.1s
+[12/03/21 16:52:04]: Controller IP address could not be updated
+[12/03/21 16:52:04]: STARC : No STARC board detected on PCI.
+[12/03/21 16:52:04]: Mcp = TSimulated
+[12/03/21 16:52:04]: Power shutdown delay set to 0 s
+[12/03/21 16:52:04]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:52:04]: Power hour count = 0:00:00
+[12/03/21 16:52:04]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:52:04]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:52:04]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:52:04]: Option testMode: demo 
+[12/03/21 16:52:04]: Configuration Version: D24266415A 
+[12/03/21 16:52:04]: Machine Number: ? 
+[12/03/21 16:52:04]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:52:04]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:52:04]: EP: s6.8 Feb  3 2010
+[12/03/21 16:52:04]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:52:04]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:52:04]: New profile : default
+[12/03/21 16:52:05]: Working mode:manual.
+[12/03/21 16:52:05]: End of arm power shutdown phase.
+[12/03/21 16:52:18]: COM-PC: create session 127.0.0.1 on port 49932 id=#54010048
+[12/03/21 16:52:30]: -----------------------------------------------
+[12/03/21 16:52:30]: Logger started
+[12/03/21 16:52:34]: Unknown event:Communication established
+[12/03/21 16:52:34]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:52:34]: Cycle time set to 0.004s
+[12/03/21 16:52:34]: Simulation cycle time set to 0.1s
+[12/03/21 16:52:34]: Controller IP address could not be updated
+[12/03/21 16:52:34]: STARC : No STARC board detected on PCI.
+[12/03/21 16:52:34]: Mcp = TSimulated
+[12/03/21 16:52:34]: Power shutdown delay set to 0 s
+[12/03/21 16:52:34]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:52:34]: Power hour count = 0:00:00
+[12/03/21 16:52:34]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:52:34]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:52:34]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:52:34]: Option testMode: demo 
+[12/03/21 16:52:34]: Configuration Version: D24266415A 
+[12/03/21 16:52:34]: Machine Number: ? 
+[12/03/21 16:52:34]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:52:34]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:52:34]: EP: s6.8 Feb  3 2010
+[12/03/21 16:52:34]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:52:34]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:52:34]: New profile : default
+[12/03/21 16:52:35]: Working mode:manual.
+[12/03/21 16:52:35]: COM-PC: create session 127.0.0.1 on port 49938 id=#54141120
+[12/03/21 16:52:35]: End of arm power shutdown phase.
+[12/03/21 16:52:49]: Settling arm power...
+[12/03/21 16:52:50]: Arm power settled.
+[12/03/21 16:52:50]: Unknown event:motion generator activated
+[12/03/21 16:52:51]: toolA application started
+[12/03/21 16:52:51]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:53:00]: Cannot move: destination is out of software axis limits
+[12/03/21 16:53:00]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/03/21 16:53:03]: Manual motion mode:Joint
+[12/03/21 16:53:03]: Unknown event:motion generator desactivated
+[12/03/21 16:53:03]: Unknown event:motion generator activated
+[12/03/21 16:53:04]: Cannot jog arm: a software limit has been reached on axis 1.
+[12/03/21 16:53:31]: -----------------------------------------------
+[12/03/21 16:53:31]: Logger started
+[12/03/21 16:53:35]: Unknown event:Communication established
+[12/03/21 16:53:35]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:53:35]: Cycle time set to 0.004s
+[12/03/21 16:53:35]: Simulation cycle time set to 0.1s
+[12/03/21 16:53:35]: Controller IP address could not be updated
+[12/03/21 16:53:35]: STARC : No STARC board detected on PCI.
+[12/03/21 16:53:35]: Mcp = TSimulated
+[12/03/21 16:53:35]: Power shutdown delay set to 0 s
+[12/03/21 16:53:35]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:53:35]: Power hour count = 0:00:00
+[12/03/21 16:53:35]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:53:35]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:53:35]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:53:35]: Option testMode: demo 
+[12/03/21 16:53:35]: Configuration Version: D24266415A 
+[12/03/21 16:53:35]: Machine Number: ? 
+[12/03/21 16:53:35]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:53:35]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:53:35]: EP: s6.8 Feb  3 2010
+[12/03/21 16:53:35]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:53:35]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:53:35]: New profile : default
+[12/03/21 16:53:35]: COM-PC: create session 127.0.0.1 on port 49955 id=#55124160
+[12/03/21 16:53:36]: Working mode:manual.
+[12/03/21 16:53:36]: End of arm power shutdown phase.
+[12/03/21 16:53:54]: toolA application started
+[12/03/21 16:53:54]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:53:55]: Settling arm power...
+[12/03/21 16:53:55]: Arm power settled.
+[12/03/21 16:53:56]: Unknown event:motion generator activated
+[12/03/21 16:58:39]: -----------------------------------------------
+[12/03/21 16:58:39]: Logger started
+[12/03/21 16:58:43]: Unknown event:Communication established
+[12/03/21 16:58:43]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/03/21 16:58:43]: Cycle time set to 0.004s
+[12/03/21 16:58:43]: Simulation cycle time set to 0.1s
+[12/03/21 16:58:43]: Controller IP address could not be updated
+[12/03/21 16:58:43]: STARC : No STARC board detected on PCI.
+[12/03/21 16:58:43]: Mcp = TSimulated
+[12/03/21 16:58:43]: Power shutdown delay set to 0 s
+[12/03/21 16:58:43]: Gravity (x y z): 0         0        -9.81
+[12/03/21 16:58:43]: Power hour count = 0:00:00
+[12/03/21 16:58:43]: Mac Address = 0a-00-27-00-00-12
+[12/03/21 16:58:43]: COM-PC: server created on all interfaces [5653]
+[12/03/21 16:58:43]: VAL3: s6.8 Feb  9 2010
+[12/03/21 16:58:43]: Option testMode: demo 
+[12/03/21 16:58:43]: Configuration Version: D24266415A 
+[12/03/21 16:58:43]: Machine Number: ? 
+[12/03/21 16:58:43]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/03/21 16:58:43]: Arm serial number: F11_5GY1A1_A_01 
+[12/03/21 16:58:43]: EP: s6.8 Feb  3 2010
+[12/03/21 16:58:43]: SCA: s6.8 Feb  3 2010
+[12/03/21 16:58:43]: PLC: s6.8 Feb  3 2010
+[12/03/21 16:58:43]: New profile : default
+[12/03/21 16:58:43]: COM-PC: create session 127.0.0.1 on port 49985 id=#53878976
+[12/03/21 16:58:43]: Working mode:manual.
+[12/03/21 16:58:44]: End of arm power shutdown phase.
+[12/03/21 16:58:54]: Manual motion mode:Joint
+[12/03/21 16:58:58]: Manual motion mode:Disabled
+[12/03/21 16:59:04]: Manual motion mode:Joint
+[12/03/21 16:59:10]: Settling arm power...
+[12/03/21 16:59:11]: Arm power settled.
+[12/03/21 16:59:11]: Unknown event:motion generator activated
+[12/03/21 16:59:15]: toolA application started
+[12/03/21 16:59:15]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 16:59:41]: toolA application stopped
+[12/03/21 17:00:17]: Manual motion mode:Frame
+[12/03/21 17:00:23]: Manual motion mode:Tool
+[12/03/21 17:00:23]: Manual motion mode:Point
+[12/03/21 17:00:24]: Manual motion mode:Joint
+[12/03/21 17:00:48]: toolA application started
+[12/03/21 17:00:48]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/03/21 17:01:09]: toolA application stopped
+[12/03/21 17:01:29]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:01:29]: Unknown event:motion generator desactivated
+[12/03/21 17:01:29]: Unknown event:motion generator activated
+[12/03/21 17:01:31]: Manual motion mode:Joint
+[12/03/21 17:01:31]: Unknown event:motion generator desactivated
+[12/03/21 17:01:31]: Unknown event:motion generator activated
+[12/03/21 17:02:06]: Manual motion mode:Point
+[12/03/21 17:02:50]: Manual motion mode:Joint
+[12/03/21 17:02:59]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:02:59]: Unknown event:motion generator desactivated
+[12/03/21 17:02:59]: Unknown event:motion generator activated
+[12/03/21 17:03:00]: Jog move impossible: first select a jog mode.
+[12/03/21 17:03:04]: Manual motion mode:Joint
+[12/03/21 17:03:04]: Unknown event:motion generator desactivated
+[12/03/21 17:03:04]: Unknown event:motion generator activated
+[12/03/21 17:03:05]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:03:05]: Unknown event:motion generator desactivated
+[12/03/21 17:03:05]: Unknown event:motion generator activated
+[12/03/21 17:03:08]: Manual motion mode:Joint
+[12/03/21 17:03:08]: Unknown event:motion generator desactivated
+[12/03/21 17:03:08]: Unknown event:motion generator activated
+[12/03/21 17:03:08]: Manual motion mode:Disabled
+[12/03/21 17:03:08]: Unknown event:motion generator desactivated
+[12/03/21 17:03:08]: Unknown event:motion generator activated
+[12/03/21 17:03:09]: Manual motion mode:Joint
+[12/03/21 17:03:09]: Unknown event:motion generator desactivated
+[12/03/21 17:03:09]: Unknown event:motion generator activated
+[12/03/21 17:03:09]: Manual motion mode:Disabled
+[12/03/21 17:03:09]: Unknown event:motion generator desactivated
+[12/03/21 17:03:09]: Unknown event:motion generator activated
+[12/03/21 17:03:09]: Manual motion mode:Joint
+[12/03/21 17:03:09]: Unknown event:motion generator desactivated
+[12/03/21 17:03:09]: Unknown event:motion generator activated
+[12/03/21 17:03:09]: Manual motion mode:Disabled
+[12/03/21 17:03:09]: Unknown event:motion generator desactivated
+[12/03/21 17:03:09]: Unknown event:motion generator activated
+[12/03/21 17:03:09]: Manual motion mode:Joint
+[12/03/21 17:03:10]: Unknown event:motion generator desactivated
+[12/03/21 17:03:10]: Unknown event:motion generator activated
+[12/03/21 17:03:11]: Cannot jog arm: a software limit has been reached on axis 3.
+[12/03/21 17:03:14]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:03:14]: Unknown event:motion generator desactivated
+[12/03/21 17:03:14]: Unknown event:motion generator activated
+[12/03/21 17:03:15]: Jog move impossible: first select a jog mode.
+[12/03/21 17:03:16]: Jog move impossible: first select a jog mode. (2)
+[12/03/21 17:03:18]: Manual motion mode:Joint
+[12/03/21 17:03:18]: Unknown event:motion generator desactivated
+[12/03/21 17:03:18]: Unknown event:motion generator activated
+[12/03/21 17:03:42]: Cannot jog arm: a software limit has been reached on axis 3.
+[12/03/21 17:03:42]: Cannot jog arm: a software limit has been reached on axis 3. (1)
+[12/03/21 17:03:45]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:03:45]: Unknown event:motion generator desactivated
+[12/03/21 17:03:45]: Unknown event:motion generator activated
+[12/03/21 17:03:47]: Manual motion mode:Joint
+[12/03/21 17:03:47]: Unknown event:motion generator desactivated
+[12/03/21 17:03:47]: Unknown event:motion generator activated
+[12/03/21 17:03:53]: Cannot jog arm: a software limit has been reached on axis 3.
+[12/03/21 17:03:55]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:03:55]: Unknown event:motion generator desactivated
+[12/03/21 17:03:55]: Unknown event:motion generator activated
+[12/03/21 17:03:56]: Manual motion mode:Joint
+[12/03/21 17:03:56]: Unknown event:motion generator desactivated
+[12/03/21 17:03:56]: Unknown event:motion generator activated
+[12/03/21 17:04:07]: Joint  rest1  taught
+[12/03/21 17:04:16]: Manual motion mode:Point
+[12/03/21 17:04:25]: Manual motion mode:Joint
+[12/03/21 17:04:28]: Unknown event:Motion reports error while pushing a move.
+[12/03/21 17:04:28]: Unknown event:motion generator desactivated
+[12/03/21 17:04:28]: Unknown event:motion generator activated
+[12/03/21 17:04:30]: Manual motion mode:Joint
+[12/03/21 17:04:30]: Unknown event:motion generator desactivated
+[12/03/21 17:04:30]: Unknown event:motion generator activated
+[12/03/21 17:04:38]: Joint  rest2  taught
+[12/03/21 17:04:40]: Manual motion mode:Point
+[12/09/21 21:27:39]: -----------------------------------------------
+[12/09/21 21:27:39]: Logger started
+[12/09/21 21:27:43]: Unknown event:Communication established
+[12/09/21 21:27:44]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:27:44]: Cycle time set to 0.004s
+[12/09/21 21:27:44]: Simulation cycle time set to 0.1s
+[12/09/21 21:27:44]: Controller IP address could not be updated
+[12/09/21 21:27:44]: STARC : No STARC board detected on PCI.
+[12/09/21 21:27:44]: Mcp = TSimulated
+[12/09/21 21:27:44]: Power shutdown delay set to 0 s
+[12/09/21 21:27:44]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:27:44]: Power hour count = 0:00:00
+[12/09/21 21:27:44]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:27:44]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:27:44]: Working mode:invalid.
+[12/09/21 21:27:44]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:27:44]: Option testMode: demo 
+[12/09/21 21:27:44]: Configuration Version: D24266415A 
+[12/09/21 21:27:44]: Machine Number: ? 
+[12/09/21 21:27:44]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:27:44]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:27:44]: EP: s6.8 Feb  3 2010
+[12/09/21 21:27:44]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:27:44]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:27:44]: New profile : default
+[12/09/21 21:27:44]: Working mode:manual.
+[12/09/21 21:27:44]: End of arm power shutdown phase.
+[12/09/21 21:27:44]: COM-PC: create session 127.0.0.1 on port 50237 id=#48158208
+[12/09/21 21:27:55]: toolA application started
+[12/09/21 21:27:55]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:27:58]: Settling arm power...
+[12/09/21 21:27:59]: Arm power settled.
+[12/09/21 21:27:59]: Unknown event:motion generator activated
+[12/09/21 21:29:09]: -----------------------------------------------
+[12/09/21 21:29:09]: Logger started
+[12/09/21 21:29:13]: Unknown event:Communication established
+[12/09/21 21:29:14]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:29:14]: Cycle time set to 0.004s
+[12/09/21 21:29:14]: Simulation cycle time set to 0.1s
+[12/09/21 21:29:14]: Controller IP address could not be updated
+[12/09/21 21:29:14]: STARC : No STARC board detected on PCI.
+[12/09/21 21:29:14]: Mcp = TSimulated
+[12/09/21 21:29:14]: Power shutdown delay set to 0 s
+[12/09/21 21:29:14]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:29:14]: Power hour count = 0:00:00
+[12/09/21 21:29:14]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:29:14]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:29:14]: COM-PC: create session 127.0.0.1 on port 50249 id=#56453216
+[12/09/21 21:29:14]: Working mode:invalid.
+[12/09/21 21:29:14]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:29:14]: Option testMode: demo 
+[12/09/21 21:29:14]: Configuration Version: D24266415A 
+[12/09/21 21:29:14]: Machine Number: ? 
+[12/09/21 21:29:14]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:29:14]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:29:14]: EP: s6.8 Feb  3 2010
+[12/09/21 21:29:14]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:29:14]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:29:14]: New profile : default
+[12/09/21 21:29:14]: Working mode:manual.
+[12/09/21 21:29:14]: End of arm power shutdown phase.
+[12/09/21 21:29:26]: toolA application started
+[12/09/21 21:29:26]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:29:27]: Settling arm power...
+[12/09/21 21:29:28]: Arm power settled.
+[12/09/21 21:29:28]: Unknown event:motion generator activated
+[12/09/21 21:30:24]: toolA application stopped
+[12/09/21 21:36:45]: -----------------------------------------------
+[12/09/21 21:36:45]: Logger started
+[12/09/21 21:36:49]: Unknown event:Communication established
+[12/09/21 21:36:50]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:36:50]: Cycle time set to 0.004s
+[12/09/21 21:36:50]: Simulation cycle time set to 0.1s
+[12/09/21 21:36:50]: Controller IP address could not be updated
+[12/09/21 21:36:50]: STARC : No STARC board detected on PCI.
+[12/09/21 21:36:50]: Mcp = TSimulated
+[12/09/21 21:36:50]: Power shutdown delay set to 0 s
+[12/09/21 21:36:50]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:36:50]: Power hour count = 0:00:00
+[12/09/21 21:36:50]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:36:50]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:36:50]: Working mode:invalid.
+[12/09/21 21:36:50]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:36:50]: Option testMode: demo 
+[12/09/21 21:36:50]: Configuration Version: D24266415A 
+[12/09/21 21:36:50]: Machine Number: ? 
+[12/09/21 21:36:50]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:36:50]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:36:50]: EP: s6.8 Feb  3 2010
+[12/09/21 21:36:50]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:36:50]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:36:50]: New profile : default
+[12/09/21 21:36:50]: COM-PC: create session 127.0.0.1 on port 50289 id=#59062056
+[12/09/21 21:36:50]: Working mode:manual.
+[12/09/21 21:36:50]: End of arm power shutdown phase.
+[12/09/21 21:37:08]: toolA application started
+[12/09/21 21:37:08]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:37:10]: Settling arm power...
+[12/09/21 21:37:11]: Arm power settled.
+[12/09/21 21:37:11]: Unknown event:motion generator activated
+[12/09/21 21:38:31]: toolA application stopped
+[12/09/21 21:43:37]: -----------------------------------------------
+[12/09/21 21:43:37]: Logger started
+[12/09/21 21:43:41]: Unknown event:Communication established
+[12/09/21 21:43:42]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:43:43]: Cycle time set to 0.004s
+[12/09/21 21:43:43]: Simulation cycle time set to 0.1s
+[12/09/21 21:43:43]: Controller IP address could not be updated
+[12/09/21 21:43:43]: STARC : No STARC board detected on PCI.
+[12/09/21 21:43:43]: Mcp = TSimulated
+[12/09/21 21:43:43]: Power shutdown delay set to 0 s
+[12/09/21 21:43:43]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:43:43]: Power hour count = 0:00:00
+[12/09/21 21:43:43]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:43:43]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:43:43]: Working mode:invalid.
+[12/09/21 21:43:43]: COM-PC: create session 127.0.0.1 on port 50336 id=#57447192
+[12/09/21 21:43:43]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:43:43]: Option testMode: demo 
+[12/09/21 21:43:43]: Configuration Version: D24266415A 
+[12/09/21 21:43:43]: Machine Number: ? 
+[12/09/21 21:43:43]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:43:43]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:43:43]: EP: s6.8 Feb  3 2010
+[12/09/21 21:43:43]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:43:43]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:43:43]: End of arm power shutdown phase.
+[12/09/21 21:43:43]: New profile : default
+[12/09/21 21:43:43]: Working mode:manual.
+[12/09/21 21:43:50]: toolA application started
+[12/09/21 21:43:50]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:43:53]: Settling arm power...
+[12/09/21 21:43:54]: Arm power settled.
+[12/09/21 21:43:54]: Unknown event:motion generator activated
+[12/09/21 21:46:20]: toolA application stopped
+[12/09/21 21:47:47]: -----------------------------------------------
+[12/09/21 21:47:47]: Logger started
+[12/09/21 21:47:52]: Unknown event:Communication established
+[12/09/21 21:47:52]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:47:52]: Cycle time set to 0.004s
+[12/09/21 21:47:52]: Simulation cycle time set to 0.1s
+[12/09/21 21:47:53]: Controller IP address could not be updated
+[12/09/21 21:47:53]: STARC : No STARC board detected on PCI.
+[12/09/21 21:47:53]: Mcp = TSimulated
+[12/09/21 21:47:53]: Power shutdown delay set to 0 s
+[12/09/21 21:47:53]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:47:53]: Power hour count = 0:00:00
+[12/09/21 21:47:53]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:47:53]: Working mode:invalid.
+[12/09/21 21:47:53]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:47:53]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:47:53]: Option testMode: demo 
+[12/09/21 21:47:53]: Configuration Version: D24266415A 
+[12/09/21 21:47:53]: Machine Number: ? 
+[12/09/21 21:47:53]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:47:53]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:47:53]: EP: s6.8 Feb  3 2010
+[12/09/21 21:47:53]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:47:53]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:47:53]: New profile : default
+[12/09/21 21:47:53]: Working mode:manual.
+[12/09/21 21:47:53]: COM-PC: create session 127.0.0.1 on port 50369 id=#57054904
+[12/09/21 21:47:53]: End of arm power shutdown phase.
+[12/09/21 21:48:14]: toolA application started
+[12/09/21 21:48:14]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:48:20]: Cannot apply arm power: release & press deadman to enable arm power request.
+[12/09/21 21:48:32]: Settling arm power...
+[12/09/21 21:48:33]: Arm power settled.
+[12/09/21 21:48:33]: Unknown event:motion generator activated
+[12/09/21 21:49:20]: toolA application stopped
+[12/09/21 21:52:27]: -----------------------------------------------
+[12/09/21 21:52:27]: Logger started
+[12/09/21 21:52:31]: Unknown event:Communication established
+[12/09/21 21:52:32]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:52:32]: Cycle time set to 0.004s
+[12/09/21 21:52:32]: Simulation cycle time set to 0.1s
+[12/09/21 21:52:32]: Controller IP address could not be updated
+[12/09/21 21:52:32]: STARC : No STARC board detected on PCI.
+[12/09/21 21:52:32]: Mcp = TSimulated
+[12/09/21 21:52:33]: Power shutdown delay set to 0 s
+[12/09/21 21:52:33]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:52:33]: Power hour count = 0:00:00
+[12/09/21 21:52:33]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:52:33]: Working mode:invalid.
+[12/09/21 21:52:33]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:52:33]: COM-PC: create session 127.0.0.1 on port 50396 id=#57475864
+[12/09/21 21:52:33]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:52:33]: Option testMode: demo 
+[12/09/21 21:52:33]: Configuration Version: D24266415A 
+[12/09/21 21:52:33]: Machine Number: ? 
+[12/09/21 21:52:33]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:52:33]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:52:33]: EP: s6.8 Feb  3 2010
+[12/09/21 21:52:33]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:52:33]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:52:33]: New profile : default
+[12/09/21 21:52:33]: End of arm power shutdown phase.
+[12/09/21 21:52:33]: Working mode:manual.
+[12/09/21 21:52:45]: COM-PC: destroy session 127.0.0.1 on port 50396 id=#57475864
+[12/09/21 21:52:50]: Cannot apply arm power: release & press deadman to enable arm power request.
+[12/09/21 21:52:53]: Working mode:test.
+[12/09/21 21:52:56]: Working mode:remote.
+[12/09/21 21:52:58]: Working mode:manual.
+[12/09/21 21:52:59]: Settling arm power...
+[12/09/21 21:53:00]: Arm power settled.
+[12/09/21 21:53:00]: Unknown event:motion generator activated
+[12/09/21 21:53:11]: toolA application started
+[12/09/21 21:53:11]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:54:19]: -----------------------------------------------
+[12/09/21 21:54:19]: Logger started
+[12/09/21 21:54:23]: Unknown event:Communication established
+[12/09/21 21:54:24]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:54:24]: Cycle time set to 0.004s
+[12/09/21 21:54:24]: Simulation cycle time set to 0.1s
+[12/09/21 21:54:24]: Controller IP address could not be updated
+[12/09/21 21:54:24]: STARC : No STARC board detected on PCI.
+[12/09/21 21:54:24]: Mcp = TSimulated
+[12/09/21 21:54:24]: Power shutdown delay set to 0 s
+[12/09/21 21:54:24]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:54:24]: Power hour count = 0:00:00
+[12/09/21 21:54:24]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:54:24]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:54:24]: Working mode:invalid.
+[12/09/21 21:54:24]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:54:24]: Option testMode: demo 
+[12/09/21 21:54:24]: Configuration Version: D24266415A 
+[12/09/21 21:54:24]: Machine Number: ? 
+[12/09/21 21:54:24]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:54:24]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:54:24]: EP: s6.8 Feb  3 2010
+[12/09/21 21:54:24]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:54:24]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:54:24]: New profile : default
+[12/09/21 21:54:24]: Working mode:manual.
+[12/09/21 21:54:25]: End of arm power shutdown phase.
+[12/09/21 21:54:32]: Settling arm power...
+[12/09/21 21:54:32]: Arm power settled.
+[12/09/21 21:54:32]: Unknown event:motion generator activated
+[12/09/21 21:54:36]: toolA application started
+[12/09/21 21:54:36]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:54:54]: Cannot move: destination is out of software axis limits
+[12/09/21 21:54:55]: ERR 150 Robot stopped on a previous impossible movement (target out of reach, incorrect arm configuration, or singularity)
+[12/09/21 21:55:04]: MCP communication disconnected
+[12/09/21 21:55:04]: Arm power shutdown: working mode change.
+[12/09/21 21:55:04]: Arm power shutdown...
+[12/09/21 21:55:04]: Unknown event:motion generator desactivated
+[12/09/21 21:56:36]: -----------------------------------------------
+[12/09/21 21:56:36]: Logger started
+[12/09/21 21:56:41]: Unknown event:Communication established
+[12/09/21 21:56:42]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 21:56:42]: Cycle time set to 0.004s
+[12/09/21 21:56:42]: Simulation cycle time set to 0.1s
+[12/09/21 21:56:42]: Controller IP address could not be updated
+[12/09/21 21:56:42]: STARC : No STARC board detected on PCI.
+[12/09/21 21:56:42]: Mcp = TSimulated
+[12/09/21 21:56:42]: Power shutdown delay set to 0 s
+[12/09/21 21:56:42]: Gravity (x y z): 0         0        -9.81
+[12/09/21 21:56:42]: Power hour count = 0:00:00
+[12/09/21 21:56:42]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 21:56:42]: COM-PC: server created on all interfaces [5653]
+[12/09/21 21:56:42]: Working mode:invalid.
+[12/09/21 21:56:42]: VAL3: s6.8 Feb  9 2010
+[12/09/21 21:56:42]: Option testMode: demo 
+[12/09/21 21:56:42]: Configuration Version: D24266415A 
+[12/09/21 21:56:42]: Machine Number: ? 
+[12/09/21 21:56:42]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 21:56:42]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 21:56:42]: EP: s6.8 Feb  3 2010
+[12/09/21 21:56:42]: SCA: s6.8 Feb  3 2010
+[12/09/21 21:56:42]: PLC: s6.8 Feb  3 2010
+[12/09/21 21:56:42]: New profile : default
+[12/09/21 21:56:42]: COM-PC: create session 127.0.0.1 on port 50425 id=#47900288
+[12/09/21 21:56:42]: Working mode:manual.
+[12/09/21 21:56:42]: End of arm power shutdown phase.
+[12/09/21 21:56:52]: toolA application started
+[12/09/21 21:56:52]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 21:56:54]: Settling arm power...
+[12/09/21 21:56:54]: Arm power shutdown...
+[12/09/21 21:56:54]: Cannot apply arm power: press the deadman switch or park the pendant on the cradle.
+[12/09/21 21:56:55]: Cannot apply arm power: arm power is still in disabling phase.
+[12/09/21 21:56:56]: End of arm power shutdown phase.
+[12/09/21 21:57:20]: Settling arm power...
+[12/09/21 21:57:20]: Arm power settled.
+[12/09/21 21:57:21]: Unknown event:motion generator activated
+[12/09/21 21:58:20]: toolA application stopped
+[12/09/21 21:59:53]: MCP communication disconnected
+[12/09/21 21:59:53]: Arm power shutdown: working mode change.
+[12/09/21 21:59:53]: Arm power shutdown...
+[12/09/21 21:59:53]: Unknown event:motion generator desactivated
+[12/09/21 22:00:11]: -----------------------------------------------
+[12/09/21 22:00:11]: Logger started
+[12/09/21 22:00:16]: Unknown event:Communication established
+[12/09/21 22:00:16]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 22:00:16]: Cycle time set to 0.004s
+[12/09/21 22:00:16]: Simulation cycle time set to 0.1s
+[12/09/21 22:00:16]: Controller IP address could not be updated
+[12/09/21 22:00:16]: STARC : No STARC board detected on PCI.
+[12/09/21 22:00:16]: Mcp = TSimulated
+[12/09/21 22:00:16]: Power shutdown delay set to 0 s
+[12/09/21 22:00:16]: Gravity (x y z): 0         0        -9.81
+[12/09/21 22:00:16]: Power hour count = 0:00:00
+[12/09/21 22:00:16]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 22:00:17]: COM-PC: server created on all interfaces [5653]
+[12/09/21 22:00:17]: Working mode:invalid.
+[12/09/21 22:00:17]: COM-PC: create session 127.0.0.1 on port 50448 id=#56803392
+[12/09/21 22:00:17]: VAL3: s6.8 Feb  9 2010
+[12/09/21 22:00:17]: Option testMode: demo 
+[12/09/21 22:00:17]: Configuration Version: D24266415A 
+[12/09/21 22:00:17]: Machine Number: ? 
+[12/09/21 22:00:17]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 22:00:17]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 22:00:17]: EP: s6.8 Feb  3 2010
+[12/09/21 22:00:17]: SCA: s6.8 Feb  3 2010
+[12/09/21 22:00:17]: PLC: s6.8 Feb  3 2010
+[12/09/21 22:00:17]: New profile : default
+[12/09/21 22:00:17]: End of arm power shutdown phase.
+[12/09/21 22:00:17]: Working mode:manual.
+[12/09/21 22:00:27]: toolA application started
+[12/09/21 22:00:27]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 22:00:29]: Settling arm power...
+[12/09/21 22:00:30]: Arm power settled.
+[12/09/21 22:00:30]: Unknown event:motion generator activated
+[12/09/21 22:01:33]: toolA application stopped
+[12/09/21 22:01:47]: Manual motion mode:Joint
+[12/09/21 22:01:47]: Unknown event:motion generator desactivated
+[12/09/21 22:01:47]: Unknown event:motion generator activated
+[12/09/21 22:02:42]: Cannot jog arm: a software limit has been reached on axis 3.
+[12/09/21 22:02:54]: Joint  rest  taught
+[12/09/21 22:02:58]: Manual motion mode:Point
+[12/09/21 22:03:28]: Jog move impossible: first select a jog mode.
+[12/09/21 22:03:31]: Manual motion mode:Joint
+[12/09/21 22:03:48]: Joint  rest  taught
+[12/09/21 22:03:51]: Manual motion mode:Point
+[12/09/21 22:04:10]: Jog move impossible: first select a jog mode.
+[12/09/21 22:04:12]: Manual motion mode:Joint
+[12/09/21 22:04:20]: Joint  rest  taught
+[12/09/21 22:04:29]: MCP communication disconnected
+[12/09/21 22:04:29]: Arm power shutdown: working mode change.
+[12/09/21 22:04:29]: Arm power shutdown...
+[12/09/21 22:04:29]: Unknown event:motion generator desactivated
+[12/09/21 22:06:25]: -----------------------------------------------
+[12/09/21 22:06:25]: Logger started
+[12/09/21 22:06:29]: Unknown event:Communication established
+[12/09/21 22:06:30]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 22:06:30]: Cycle time set to 0.004s
+[12/09/21 22:06:30]: Simulation cycle time set to 0.1s
+[12/09/21 22:06:30]: Controller IP address could not be updated
+[12/09/21 22:06:30]: STARC : No STARC board detected on PCI.
+[12/09/21 22:06:30]: Mcp = TSimulated
+[12/09/21 22:06:30]: Power shutdown delay set to 0 s
+[12/09/21 22:06:30]: Gravity (x y z): 0         0        -9.81
+[12/09/21 22:06:30]: Power hour count = 0:00:00
+[12/09/21 22:06:30]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 22:06:30]: COM-PC: server created on all interfaces [5653]
+[12/09/21 22:06:30]: Working mode:invalid.
+[12/09/21 22:06:30]: VAL3: s6.8 Feb  9 2010
+[12/09/21 22:06:30]: Option testMode: demo 
+[12/09/21 22:06:30]: Configuration Version: D24266415A 
+[12/09/21 22:06:30]: Machine Number: ? 
+[12/09/21 22:06:30]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 22:06:30]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 22:06:30]: EP: s6.8 Feb  3 2010
+[12/09/21 22:06:30]: SCA: s6.8 Feb  3 2010
+[12/09/21 22:06:30]: PLC: s6.8 Feb  3 2010
+[12/09/21 22:06:30]: New profile : default
+[12/09/21 22:06:30]: COM-PC: create session 127.0.0.1 on port 50482 id=#57782656
+[12/09/21 22:06:30]: Working mode:manual.
+[12/09/21 22:06:31]: End of arm power shutdown phase.
+[12/09/21 22:06:43]: toolA application started
+[12/09/21 22:06:43]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 22:06:55]: Settling arm power...
+[12/09/21 22:06:56]: Arm power settled.
+[12/09/21 22:06:56]: Unknown event:motion generator activated
+[12/09/21 22:08:02]: -----------------------------------------------
+[12/09/21 22:08:02]: Logger started
+[12/09/21 22:08:07]: Unknown event:Communication established
+[12/09/21 22:08:07]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 22:08:07]: Cycle time set to 0.004s
+[12/09/21 22:08:07]: Simulation cycle time set to 0.1s
+[12/09/21 22:08:07]: Controller IP address could not be updated
+[12/09/21 22:08:08]: STARC : No STARC board detected on PCI.
+[12/09/21 22:08:08]: Mcp = TSimulated
+[12/09/21 22:08:08]: Power shutdown delay set to 0 s
+[12/09/21 22:08:08]: Gravity (x y z): 0         0        -9.81
+[12/09/21 22:08:08]: Power hour count = 0:00:00
+[12/09/21 22:08:08]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 22:08:08]: COM-PC: server created on all interfaces [5653]
+[12/09/21 22:08:08]: COM-PC: create session 127.0.0.1 on port 50497 id=#51889160
+[12/09/21 22:08:08]: Working mode:invalid.
+[12/09/21 22:08:08]: VAL3: s6.8 Feb  9 2010
+[12/09/21 22:08:08]: Option testMode: demo 
+[12/09/21 22:08:08]: Configuration Version: D24266415A 
+[12/09/21 22:08:08]: Machine Number: ? 
+[12/09/21 22:08:08]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 22:08:08]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 22:08:08]: EP: s6.8 Feb  3 2010
+[12/09/21 22:08:08]: SCA: s6.8 Feb  3 2010
+[12/09/21 22:08:08]: PLC: s6.8 Feb  3 2010
+[12/09/21 22:08:08]: New profile : default
+[12/09/21 22:08:08]: Working mode:manual.
+[12/09/21 22:08:08]: End of arm power shutdown phase.
+[12/09/21 22:08:18]: toolA application started
+[12/09/21 22:08:18]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 22:08:25]: COM-PC: destroy session 127.0.0.1 on port 50497 id=#51889160
+[12/09/21 22:08:38]: Settling arm power...
+[12/09/21 22:08:39]: Arm power settled.
+[12/09/21 22:08:39]: Unknown event:motion generator activated
+[12/09/21 22:08:43]: COM-PC: create session 127.0.0.1 on port 50502 id=#51888328
+[12/09/21 22:34:09]: -----------------------------------------------
+[12/09/21 22:34:09]: Logger started
+[12/09/21 22:34:14]: Unknown event:Communication established
+[12/09/21 22:34:14]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 22:34:15]: Cycle time set to 0.004s
+[12/09/21 22:34:15]: Simulation cycle time set to 0.1s
+[12/09/21 22:34:15]: Controller IP address could not be updated
+[12/09/21 22:34:15]: STARC : No STARC board detected on PCI.
+[12/09/21 22:34:15]: Mcp = TSimulated
+[12/09/21 22:34:15]: Power shutdown delay set to 0 s
+[12/09/21 22:34:15]: Gravity (x y z): 0         0        -9.81
+[12/09/21 22:34:15]: Power hour count = 0:00:00
+[12/09/21 22:34:15]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 22:34:15]: COM-PC: server created on all interfaces [5653]
+[12/09/21 22:34:15]: Working mode:invalid.
+[12/09/21 22:34:15]: VAL3: s6.8 Feb  9 2010
+[12/09/21 22:34:15]: Option testMode: demo 
+[12/09/21 22:34:15]: Configuration Version: D24266415A 
+[12/09/21 22:34:15]: Machine Number: ? 
+[12/09/21 22:34:15]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 22:34:15]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 22:34:15]: EP: s6.8 Feb  3 2010
+[12/09/21 22:34:15]: SCA: s6.8 Feb  3 2010
+[12/09/21 22:34:15]: PLC: s6.8 Feb  3 2010
+[12/09/21 22:34:15]: New profile : default
+[12/09/21 22:34:15]: COM-PC: create session 127.0.0.1 on port 50637 id=#57556472
+[12/09/21 22:34:15]: End of arm power shutdown phase.
+[12/09/21 22:34:15]: Working mode:manual.
+[12/09/21 22:34:27]: toolA application started
+[12/09/21 22:34:28]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 22:34:35]: Settling arm power...
+[12/09/21 22:34:36]: Arm power settled.
+[12/09/21 22:34:36]: Unknown event:motion generator activated
+[12/09/21 22:53:29]: -----------------------------------------------
+[12/09/21 22:53:29]: Logger started
+[12/09/21 22:53:34]: Unknown event:Communication established
+[12/09/21 22:53:34]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 22:53:34]: Cycle time set to 0.004s
+[12/09/21 22:53:34]: Simulation cycle time set to 0.1s
+[12/09/21 22:53:34]: Controller IP address could not be updated
+[12/09/21 22:53:34]: STARC : No STARC board detected on PCI.
+[12/09/21 22:53:34]: Power shutdown delay set to 0 s
+[12/09/21 22:53:34]: Gravity (x y z): 0         0        -9.81
+[12/09/21 22:53:34]: Power hour count = 0:00:00
+[12/09/21 22:53:34]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 22:53:34]: Mcp = TSimulated
+[12/09/21 22:53:34]: COM-PC: server created on all interfaces [5653]
+[12/09/21 22:53:34]: COM-PC: create session 127.0.0.1 on port 50721 id=#57550632
+[12/09/21 22:53:34]: Working mode:invalid.
+[12/09/21 22:53:34]: VAL3: s6.8 Feb  9 2010
+[12/09/21 22:53:34]: Option testMode: demo 
+[12/09/21 22:53:34]: Configuration Version: D24266415A 
+[12/09/21 22:53:34]: Machine Number: ? 
+[12/09/21 22:53:34]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 22:53:34]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 22:53:34]: EP: s6.8 Feb  3 2010
+[12/09/21 22:53:34]: SCA: s6.8 Feb  3 2010
+[12/09/21 22:53:34]: PLC: s6.8 Feb  3 2010
+[12/09/21 22:53:34]: New profile : default
+[12/09/21 22:53:34]: Working mode:manual.
+[12/09/21 22:53:35]: End of arm power shutdown phase.
+[12/09/21 22:53:55]: toolA application started
+[12/09/21 22:53:56]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 22:53:58]: Settling arm power...
+[12/09/21 22:53:58]: Arm power settled.
+[12/09/21 22:53:58]: Unknown event:motion generator activated
+[12/09/21 22:57:37]: toolA application stopped
+[12/09/21 22:57:47]: MCP communication disconnected
+[12/09/21 22:57:47]: Arm power shutdown: working mode change.
+[12/09/21 22:57:48]: Arm power shutdown...
+[12/09/21 22:57:48]: Unknown event:motion generator desactivated
+[12/09/21 23:03:04]: -----------------------------------------------
+[12/09/21 23:03:04]: Logger started
+[12/09/21 23:03:08]: Unknown event:Communication established
+[12/09/21 23:03:08]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[12/09/21 23:03:08]: Cycle time set to 0.004s
+[12/09/21 23:03:08]: Simulation cycle time set to 0.1s
+[12/09/21 23:03:09]: Controller IP address could not be updated
+[12/09/21 23:03:09]: STARC : No STARC board detected on PCI.
+[12/09/21 23:03:09]: Mcp = TSimulated
+[12/09/21 23:03:09]: Power shutdown delay set to 0 s
+[12/09/21 23:03:09]: Gravity (x y z): 0         0        -9.81
+[12/09/21 23:03:09]: Power hour count = 0:00:00
+[12/09/21 23:03:09]: Mac Address = 00-0c-29-ac-3e-d0
+[12/09/21 23:03:09]: COM-PC: server created on all interfaces [5653]
+[12/09/21 23:03:09]: Working mode:invalid.
+[12/09/21 23:03:09]: VAL3: s6.8 Feb  9 2010
+[12/09/21 23:03:09]: Option testMode: demo 
+[12/09/21 23:03:09]: Configuration Version: D24266415A 
+[12/09/21 23:03:09]: Machine Number: ? 
+[12/09/21 23:03:09]: Arm: ts60-S1-D25-L200-wall-R1 wall
+[12/09/21 23:03:09]: Arm serial number: F11_5GY1A1_A_01 
+[12/09/21 23:03:09]: EP: s6.8 Feb  3 2010
+[12/09/21 23:03:09]: SCA: s6.8 Feb  3 2010
+[12/09/21 23:03:09]: PLC: s6.8 Feb  3 2010
+[12/09/21 23:03:09]: New profile : default
+[12/09/21 23:03:09]: COM-PC: create session 127.0.0.1 on port 50772 id=#57703328
+[12/09/21 23:03:09]: Working mode:manual.
+[12/09/21 23:03:09]: End of arm power shutdown phase.
+[12/09/21 23:03:17]: toolA application started
+[12/09/21 23:03:17]: Unknown event:Enable or disable request refused because the controller is not in the good working mode
+[12/09/21 23:03:21]: Settling arm power...
+[12/09/21 23:03:21]: Arm power settled.
+[12/09/21 23:03:22]: Unknown event:motion generator activated
+[12/09/21 23:03:28]: COM-PC: destroy session 127.0.0.1 on port 50772 id=#57703328
+[12/09/21 23:03:28]: COM-PC: create session 127.0.0.1 on port 50777 id=#57702184
+[12/09/21 23:06:21]: toolA application stopped
+[12/09/21 23:06:25]: toolA application started
+[12/09/21 23:06:25]: Unknown event:Enable or disable request refused because the controller is not in the good working mode

@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<programList xmlns="ProgramNameSpace">
+  <program name="start" public="false">
+    <description />
+    <paramSection />
+    <localSection />
+    <source>
+      <code>begin
+  cls()
+  enablePower()
+  mNomSpeed.vel=15
+  mNomSlow.vel=5
+  //Initializing all the clean Surgical Tools before Surgery
+  indA=1
+  indB=1
+  indC=1
+  indD=1
+  io:bOut1=false
+  io:bOut0=false
+  do
+    popUpMsg("Select a Tool or Exit!")
+    get(nvar)
+    /////////////////// SURGICAL TOOL - indA ///////////////////////
+    if nvar==1
+      //Passing the clean tool to the Surgeon
+      if indA==1
+        movej(rest,suction,mNomSpeed)
+        movej(appro(conA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(conA,suction,mNomSlow)
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(conA,{0,0,-100,0,0,0}),suction,mNomSlow)
+        movej(rest1,suction,mNomSpeed)
+        //Fresh Tool
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+        indA=0
+        //Sanitising and giving back the tool to the Surgeon - indA
+      elseIf indA==0
+        movej(rest2,suction,mNomSpeed)
+        for i=1 to 3 step 1
+          movel(sanini1,suction,mNomSpeed)
+          movel(sanini2,suction,mNomSpeed)
+        endFor
+        movej(appro(iniA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniA,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        //Contamination Zone
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+      endIf
+      /////////////////// SURGICAL TOOL - indB ///////////////////////
+    elseIf nvar==2
+      //Passing the clean tool to the Surgeon
+      if indB==1
+        movej(rest,suction,mNomSpeed)
+        movej(appro(conB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(conB,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(conB,{0,0,-100,0,0,0}),suction,mNomSlow)
+        movej(rest1,suction,mNomSpeed)
+        //Fresh Tool
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+        indB=0
+        //Sanitising and giving back the tool to the Surgeon - indB
+      elseIf indB==0
+        movej(rest2,suction,mNomSpeed)
+        for i=1 to 3 step 1
+          movel(sanini1,suction,mNomSpeed)
+          movel(sanini2,suction,mNomSpeed)
+        endFor
+        movej(appro(iniB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniB,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        //Contamination Zone
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+      endIf
+      /////////////////// SURGICAL TOOL - indC ///////////////////////
+    elseIf nvar==3
+      //Passing the clean tool to the Surgeon
+      if indC==1
+        movej(rest,suction,mNomSpeed)
+        movej(appro(conC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(conC,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(conC,{0,0,-100,0,0,0}),suction,mNomSlow)
+        movej(rest1,suction,mNomSpeed)
+        //Fresh Tool
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+        indC=0
+        //Sanitising and giving back the tool to the Surgeon - indC
+      elseIf indC==0
+        movej(rest2,suction,mNomSpeed)
+        for i=1 to 3 step 1
+          movel(sanini1,suction,mNomSpeed)
+          movel(sanini2,suction,mNomSpeed)
+        endFor
+        movej(appro(iniC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniC,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        //Contamination Zone
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+      endIf
+      /////////////////// SURGICAL TOOL - indD ///////////////////////
+    elseIf nvar==4
+      //Passing the clean tool to the Surgeon
+      if indD==1
+        movej(rest,suction,mNomSpeed)
+        movej(appro(conD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(conD,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(conD,{0,0,-100,0,0,0}),suction,mNomSlow)
+        movej(rest1,suction,mNomSpeed)
+        //Fresh Tool
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+        indD=0
+        //Sanitising and giving back the tool to the Surgeon - indD
+      elseIf indD==0
+        movej(rest2,suction,mNomSpeed)
+        for i=1 to 3 step 1
+          movel(sanini1,suction,mNomSpeed)
+          movel(sanini2,suction,mNomSpeed)
+        endFor
+        movej(appro(iniD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniD,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        //Contamination Zone
+        movej(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(hand,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(hand,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest,suction,mNomSpeed)
+        //Doc Hand
+        waitEndMove()
+      endIf
+      /////////////////// END OF SURGERY ///////////////////////
+    elseIf nvar==100
+      popUpMsg("Sanitizing all the Tools")
+      //Sanitize Tools
+      movej(rest2,suction,mNomSpeed)
+      for i=1 to 3 step 1
+        movel(sanini1,suction,mNomSpeed)
+        movel(sanini2,suction,mNomSpeed)
+      endFor
+      popUpMsg("Taking back all the tools")
+      //Do the if for all the tools
+      if indA==0
+        //movej(rest2,suction,mNomSpeed)
+        movej(appro(iniA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniA,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        movej(appro(conA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(conA,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(conA,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        waitEndMove()
+      endIf
+      if indB==0
+        movej(rest2,suction,mNomSpeed)
+        movej(appro(iniB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniB,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        movej(appro(conB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(conB,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(conB,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        waitEndMove()
+      endIf
+      if indC==0
+        movej(rest2,suction,mNomSpeed)
+        movej(appro(iniC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniC,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        movej(appro(conC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(conC,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(conC,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        waitEndMove()
+      endIf
+      if indD==0
+        movej(rest2,suction,mNomSpeed)
+        movej(appro(iniD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movel(iniD,suction,mNomSlow)
+        waitEndMove()
+        io:bOut1=false
+        io:bOut0=true
+        delay(1)
+        movel(appro(iniD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest2,suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        movej(appro(conD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(conD,suction,mNomSlow)
+        waitEndMove()
+        io:bOut0=false
+        io:bOut1=true
+        delay(1)
+        io:bOut1=false
+        movel(appro(conD,{0,0,-100,0,0,0}),suction,mNomSpeed)
+        movej(rest1,suction,mNomSpeed)
+        waitEndMove()
+      endIf
+      movej(rest,suction,mNomSpeed)
+      popUpMsg("End of the Surgery")
+    else
+      popUpMsg("Wrong Choice")
+    endIf
+  until (nvar==100)
+  //io:bOut0=false, suction
+  //delay(1)
+  //io:bOut1=true, blow
+end
+
+      </code>
+    </source>
+  </program>
+</programList>
